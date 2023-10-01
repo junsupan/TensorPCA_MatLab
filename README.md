@@ -22,7 +22,7 @@ findsigma3.m
 ```
 are functions to estimate the scale component by minimizing the sum squared errors.
 
-***Empirical Chen Zimmerman data:***
+**Empirical Chen Zimmerman data:**
 ```
 tensor_CZ.m
 tensor_CZ_v2.m
