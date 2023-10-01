@@ -1,4 +1,9 @@
+# Tensor Principal Component Analysis
+This repository contains MatLab code for creating empirical and simulation results reported in the paper [*Tensor Principal Component Analysis*](https://arxiv.org/abs/2212.12981).
 
+Reference:
+Babii, Andrii, Eric Ghysels, and Junsu Pan. **"Tensor Principal Component Analysis."** *arXiv preprint arXiv:2212.12981* (2022). 
+https://arxiv.org/abs/2212.12981
 
 **Test:**
 ```
