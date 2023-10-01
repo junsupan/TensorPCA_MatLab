@@ -92,7 +92,8 @@ portsort_sim_v1.m
 portsort_sim_v2.m
 ```
 
+```
 PCAgraph.m
 ```
 plots the PCA graphical illustration used in slides.
-```
+
