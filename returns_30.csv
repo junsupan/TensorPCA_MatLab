@@ -1,0 +1,2521 @@
+date,ind,avgRET
+31/03/2000,Food Products,-.11182354
+31/03/2000,Beer & Liquor,-.051318672
+31/03/2000,Tobacco Products,-.012159714
+31/03/2000,Recreation,.19905946
+31/03/2000,Printing and Publishing,-.0062786303
+31/03/2000,Consumer Goods,-.24577251
+31/03/2000,Apparel,-.069615781
+31/03/2000,"Healthcare, Medical Equipment, Pharmaceutical Products",.09244021
+31/03/2000,Chemicals,-.10617802
+31/03/2000,Textiles,-.04250361
+31/03/2000,Construction and Construction Materials,-.072733678
+31/03/2000,Steel Works Etc,.13650537
+31/03/2000,Fabricated Products and Machinery,.023223357
+31/03/2000,Electrical Equipment,.30956504
+31/03/2000,Automobiles and Trucks,.017754029
+31/03/2000,"Aircraft, ships, and railroad equipment",-.078140438
+31/03/2000,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.20722556
+31/03/2000,Coal,-.16678281
+31/03/2000,Petroleum and Natural Gas,.04033516
+31/03/2000,Utilities,-.011144009
+31/03/2000,Communication,.091261491
+31/03/2000,Personal and Business Services,.13920665
+31/03/2000,Business Equipment,.28142926
+31/03/2000,Business Supplies and Shipping Containers,-.12876533
+31/03/2000,Transportation,-.06801118
+31/03/2000,Wholesale,.021568559
+31/03/2000,Retail,-.050189987
+31/03/2000,"Restaurants, Hotels, Motels",.036983259
+31/03/2000,"Banking, Insurance, Real Estate, Trading",-.011686085
+31/03/2000,Everything Else,-.077079006
+30/06/2000,Food Products,.11537372
+30/06/2000,Beer & Liquor,.14663939
+30/06/2000,Tobacco Products,.15395558
+30/06/2000,Recreation,-.16525008
+30/06/2000,Printing and Publishing,-.036805995
+30/06/2000,Consumer Goods,.070118994
+30/06/2000,Apparel,.059837282
+30/06/2000,"Healthcare, Medical Equipment, Pharmaceutical Products",.2225149
+30/06/2000,Chemicals,.019139348
+30/06/2000,Textiles,.043860018
+30/06/2000,Construction and Construction Materials,-.043265261
+30/06/2000,Steel Works Etc,.11076488
+30/06/2000,Fabricated Products and Machinery,.014161674
+30/06/2000,Electrical Equipment,.23416555
+30/06/2000,Automobiles and Trucks,-.073843457
+30/06/2000,"Aircraft, ships, and railroad equipment",.075727984
+30/06/2000,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.053798318
+30/06/2000,Coal,.13113426
+30/06/2000,Petroleum and Natural Gas,.060607642
+30/06/2000,Utilities,.096478753
+30/06/2000,Communication,-.12053376
+30/06/2000,Personal and Business Services,-.041088112
+30/06/2000,Business Equipment,-.0029850525
+30/06/2000,Business Supplies and Shipping Containers,-.093095399
+30/06/2000,Transportation,.11732578
+30/06/2000,Wholesale,.20454957
+30/06/2000,Retail,-.068354845
+30/06/2000,"Restaurants, Hotels, Motels",.0089662224
+30/06/2000,"Banking, Insurance, Real Estate, Trading",.010754068
+30/06/2000,Everything Else,.17236984
+30/09/2000,Food Products,.019220596
+30/09/2000,Beer & Liquor,.022301055
+30/09/2000,Tobacco Products,.14990634
+30/09/2000,Recreation,.044035167
+30/09/2000,Printing and Publishing,.010253333
+30/09/2000,Consumer Goods,-.00492302
+30/09/2000,Apparel,-.067895927
+30/09/2000,"Healthcare, Medical Equipment, Pharmaceutical Products",.061145853
+30/09/2000,Chemicals,.016057853
+30/09/2000,Textiles,.049454357
+30/09/2000,Construction and Construction Materials,-.050781965
+30/09/2000,Steel Works Etc,-.044129193
+30/09/2000,Fabricated Products and Machinery,.041377228
+30/09/2000,Electrical Equipment,.0037359844
+30/09/2000,Automobiles and Trucks,.023074418
+30/09/2000,"Aircraft, ships, and railroad equipment",.38287532
+30/09/2000,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.062920511
+30/09/2000,Coal,.14175288
+30/09/2000,Petroleum and Natural Gas,.072148234
+30/09/2000,Utilities,.12507753
+30/09/2000,Communication,-.14620067
+30/09/2000,Personal and Business Services,-.0081495587
+30/09/2000,Business Equipment,-.095617622
+30/09/2000,Business Supplies and Shipping Containers,-.024631994
+30/09/2000,Transportation,.021080108
+30/09/2000,Wholesale,.063584737
+30/09/2000,Retail,-.031583883
+30/09/2000,"Restaurants, Hotels, Motels",.019694323
+30/09/2000,"Banking, Insurance, Real Estate, Trading",.17008807
+30/09/2000,Everything Else,-.071570456
+31/12/2000,Food Products,.19519274
+31/12/2000,Beer & Liquor,.20913944
+31/12/2000,Tobacco Products,.14901301
+31/12/2000,Recreation,-.2207339
+31/12/2000,Printing and Publishing,.0013858665
+31/12/2000,Consumer Goods,.090422675
+31/12/2000,Apparel,.17183247
+31/12/2000,"Healthcare, Medical Equipment, Pharmaceutical Products",.049804755
+31/12/2000,Chemicals,.078958601
+31/12/2000,Textiles,-.12642556
+31/12/2000,Construction and Construction Materials,.075332902
+31/12/2000,Steel Works Etc,-.11735655
+31/12/2000,Fabricated Products and Machinery,-.11751867
+31/12/2000,Electrical Equipment,-.033874087
+31/12/2000,Automobiles and Trucks,-.084725
+31/12/2000,"Aircraft, ships, and railroad equipment",.086182751
+31/12/2000,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.11749037
+31/12/2000,Coal,.01713274
+31/12/2000,Petroleum and Natural Gas,.023530334
+31/12/2000,Utilities,.10232349
+31/12/2000,Communication,-.1008486
+31/12/2000,Personal and Business Services,-.17370872
+31/12/2000,Business Equipment,-.17175446
+31/12/2000,Business Supplies and Shipping Containers,.17594753
+31/12/2000,Transportation,.17555624
+31/12/2000,Wholesale,.088313475
+31/12/2000,Retail,.067670591
+31/12/2000,"Restaurants, Hotels, Motels",.12706125
+31/12/2000,"Banking, Insurance, Real Estate, Trading",.061293039
+31/12/2000,Everything Else,.21021563
+31/03/2001,Food Products,-.12901893
+31/03/2001,Beer & Liquor,-.045572508
+31/03/2001,Tobacco Products,.10172552
+31/03/2001,Recreation,-.0035004234
+31/03/2001,Printing and Publishing,-.071324058
+31/03/2001,Consumer Goods,-.094900429
+31/03/2001,Apparel,-.12861079
+31/03/2001,"Healthcare, Medical Equipment, Pharmaceutical Products",-.11261214
+31/03/2001,Chemicals,.30818647
+31/03/2001,Textiles,.26801667
+31/03/2001,Construction and Construction Materials,.011446448
+31/03/2001,Steel Works Etc,-.077707902
+31/03/2001,Fabricated Products and Machinery,-.07583978
+31/03/2001,Electrical Equipment,-.24348916
+31/03/2001,Automobiles and Trucks,.097019635
+31/03/2001,"Aircraft, ships, and railroad equipment",-.11395842
+31/03/2001,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.042170566
+31/03/2001,Coal,-.040199131
+31/03/2001,Petroleum and Natural Gas,-.055165004
+31/03/2001,Utilities,-.026898755
+31/03/2001,Communication,-.045385648
+31/03/2001,Personal and Business Services,-.042019103
+31/03/2001,Business Equipment,-.14215796
+31/03/2001,Business Supplies and Shipping Containers,-.070721991
+31/03/2001,Transportation,-.018305281
+31/03/2001,Wholesale,-.038271535
+31/03/2001,Retail,.022015898
+31/03/2001,"Restaurants, Hotels, Motels",-.079082564
+31/03/2001,"Banking, Insurance, Real Estate, Trading",-.084603257
+31/03/2001,Everything Else,.011908351
+30/06/2001,Food Products,.071590774
+30/06/2001,Beer & Liquor,.047426481
+30/06/2001,Tobacco Products,.091857187
+30/06/2001,Recreation,.10813964
+30/06/2001,Printing and Publishing,.084236711
+30/06/2001,Consumer Goods,.065107197
+30/06/2001,Apparel,.11366215
+30/06/2001,"Healthcare, Medical Equipment, Pharmaceutical Products",.074253313
+30/06/2001,Chemicals,.019280212
+30/06/2001,Textiles,.095647968
+30/06/2001,Construction and Construction Materials,.038652569
+30/06/2001,Steel Works Etc,.035917874
+30/06/2001,Fabricated Products and Machinery,.16295364
+30/06/2001,Electrical Equipment,.12798384
+30/06/2001,Automobiles and Trucks,.045242775
+30/06/2001,"Aircraft, ships, and railroad equipment",.087940402
+30/06/2001,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.13061364
+30/06/2001,Coal,.10051087
+30/06/2001,Petroleum and Natural Gas,.054547295
+30/06/2001,Utilities,.036261816
+30/06/2001,Communication,.026247533
+30/06/2001,Personal and Business Services,.28921595
+30/06/2001,Business Equipment,.095803626
+30/06/2001,Business Supplies and Shipping Containers,.07276839
+30/06/2001,Transportation,.10624124
+30/06/2001,Wholesale,.13281007
+30/06/2001,Retail,.075488225
+30/06/2001,"Restaurants, Hotels, Motels",.10900857
+30/06/2001,"Banking, Insurance, Real Estate, Trading",.075324148
+30/06/2001,Everything Else,.023326268
+30/09/2001,Food Products,-.002266906
+30/09/2001,Beer & Liquor,-.041246932
+30/09/2001,Tobacco Products,.045235947
+30/09/2001,Recreation,-.31883258
+30/09/2001,Printing and Publishing,-.157563
+30/09/2001,Consumer Goods,-.020112287
+30/09/2001,Apparel,-.11366589
+30/09/2001,"Healthcare, Medical Equipment, Pharmaceutical Products",-.0070176995
+30/09/2001,Chemicals,-.17222296
+30/09/2001,Textiles,-.16396539
+30/09/2001,Construction and Construction Materials,-.14137787
+30/09/2001,Steel Works Etc,-.25755903
+30/09/2001,Fabricated Products and Machinery,-.23783863
+30/09/2001,Electrical Equipment,-.32478335
+30/09/2001,Automobiles and Trucks,-.27913985
+30/09/2001,"Aircraft, ships, and railroad equipment",-.21851492
+30/09/2001,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.085776657
+30/09/2001,Coal,-.11587842
+30/09/2001,Petroleum and Natural Gas,-.078696273
+30/09/2001,Utilities,-.08958637
+30/09/2001,Communication,-.1450161
+30/09/2001,Personal and Business Services,-.29027236
+30/09/2001,Business Equipment,-.28003335
+30/09/2001,Business Supplies and Shipping Containers,-.028892189
+30/09/2001,Transportation,-.25502661
+30/09/2001,Wholesale,.04844223
+30/09/2001,Retail,-.11147767
+30/09/2001,"Restaurants, Hotels, Motels",-.1325886
+30/09/2001,"Banking, Insurance, Real Estate, Trading",-.10746028
+30/09/2001,Everything Else,-.031693481
+31/12/2001,Food Products,.068015419
+31/12/2001,Beer & Liquor,.085277647
+31/12/2001,Tobacco Products,.065825723
+31/12/2001,Recreation,.24735366
+31/12/2001,Printing and Publishing,.1699256
+31/12/2001,Consumer Goods,.13096228
+31/12/2001,Apparel,.17280453
+31/12/2001,"Healthcare, Medical Equipment, Pharmaceutical Products",.017722197
+31/12/2001,Chemicals,.041095577
+31/12/2001,Textiles,.2784901
+31/12/2001,Construction and Construction Materials,.14933951
+31/12/2001,Steel Works Etc,.27540863
+31/12/2001,Fabricated Products and Machinery,.12588274
+31/12/2001,Electrical Equipment,.38299325
+31/12/2001,Automobiles and Trucks,.18964811
+31/12/2001,"Aircraft, ships, and railroad equipment",.11262245
+31/12/2001,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.20305538
+31/12/2001,Coal,-.062918685
+31/12/2001,Petroleum and Natural Gas,.043650616
+31/12/2001,Utilities,.015822858
+31/12/2001,Communication,.13792293
+31/12/2001,Personal and Business Services,.34020466
+31/12/2001,Business Equipment,.38163757
+31/12/2001,Business Supplies and Shipping Containers,.15786318
+31/12/2001,Transportation,.25012234
+31/12/2001,Wholesale,.13559052
+31/12/2001,Retail,.25168085
+31/12/2001,"Restaurants, Hotels, Motels",.18043308
+31/12/2001,"Banking, Insurance, Real Estate, Trading",.11271457
+31/12/2001,Everything Else,.064924069
+31/03/2002,Food Products,.038073432
+31/03/2002,Beer & Liquor,.12679978
+31/03/2002,Tobacco Products,.20937482
+31/03/2002,Recreation,.11815282
+31/03/2002,Printing and Publishing,.12852713
+31/03/2002,Consumer Goods,.11298253
+31/03/2002,Apparel,.072850049
+31/03/2002,"Healthcare, Medical Equipment, Pharmaceutical Products",-.0010162162
+31/03/2002,Chemicals,.11802623
+31/03/2002,Textiles,.36630177
+31/03/2002,Construction and Construction Materials,.023052776
+31/03/2002,Steel Works Etc,.089379832
+31/03/2002,Fabricated Products and Machinery,.041899335
+31/03/2002,Electrical Equipment,.022778409
+31/03/2002,Automobiles and Trucks,.13615189
+31/03/2002,"Aircraft, ships, and railroad equipment",.22165622
+31/03/2002,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.20258209
+31/03/2002,Coal,.078353599
+31/03/2002,Petroleum and Natural Gas,.14692755
+31/03/2002,Utilities,.032604519
+31/03/2002,Communication,.0012100096
+31/03/2002,Personal and Business Services,.029482523
+31/03/2002,Business Equipment,-.015085737
+31/03/2002,Business Supplies and Shipping Containers,.1312834
+31/03/2002,Transportation,.14262292
+31/03/2002,Wholesale,.085066363
+31/03/2002,Retail,.073291391
+31/03/2002,"Restaurants, Hotels, Motels",.13958997
+31/03/2002,"Banking, Insurance, Real Estate, Trading",.037339669
+31/03/2002,Everything Else,.14916952
+30/06/2002,Food Products,.06541729
+30/06/2002,Beer & Liquor,-.028363006
+30/06/2002,Tobacco Products,.15082529
+30/06/2002,Recreation,-.029805329
+30/06/2002,Printing and Publishing,-.082361728
+30/06/2002,Consumer Goods,-.0083611934
+30/06/2002,Apparel,.0023048234
+30/06/2002,"Healthcare, Medical Equipment, Pharmaceutical Products",-.10695108
+30/06/2002,Chemicals,-.03144411
+30/06/2002,Textiles,.0049873274
+30/06/2002,Construction and Construction Materials,-.066095322
+30/06/2002,Steel Works Etc,-.14989451
+30/06/2002,Fabricated Products and Machinery,-.14890613
+30/06/2002,Electrical Equipment,-.082946047
+30/06/2002,Automobiles and Trucks,-.070697919
+30/06/2002,"Aircraft, ships, and railroad equipment",.0099974899
+30/06/2002,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.021390628
+30/06/2002,Coal,.032012153
+30/06/2002,Petroleum and Natural Gas,.0056064064
+30/06/2002,Utilities,.0096298177
+30/06/2002,Communication,-.14218979
+30/06/2002,Personal and Business Services,-.071774416
+30/06/2002,Business Equipment,-.23764198
+30/06/2002,Business Supplies and Shipping Containers,.015722819
+30/06/2002,Transportation,-.0052046189
+30/06/2002,Wholesale,-.10330317
+30/06/2002,Retail,-.086867839
+30/06/2002,"Restaurants, Hotels, Motels",-.018613502
+30/06/2002,"Banking, Insurance, Real Estate, Trading",-.006915899
+30/06/2002,Everything Else,.13380858
+30/09/2002,Food Products,-.10782288
+30/09/2002,Beer & Liquor,-.023910508
+30/09/2002,Tobacco Products,-.044075578
+30/09/2002,Recreation,-.16678874
+30/09/2002,Printing and Publishing,-.086463124
+30/09/2002,Consumer Goods,-.049318504
+30/09/2002,Apparel,-.13984101
+30/09/2002,"Healthcare, Medical Equipment, Pharmaceutical Products",-.093411677
+30/09/2002,Chemicals,-.20438494
+30/09/2002,Textiles,-.31504306
+30/09/2002,Construction and Construction Materials,-.22615167
+30/09/2002,Steel Works Etc,-.3472386
+30/09/2002,Fabricated Products and Machinery,-.15316729
+30/09/2002,Electrical Equipment,-.29990128
+30/09/2002,Automobiles and Trucks,-.1054154
+30/09/2002,"Aircraft, ships, and railroad equipment",-.23393698
+30/09/2002,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.059077021
+30/09/2002,Coal,-.18925361
+30/09/2002,Petroleum and Natural Gas,-.11916512
+30/09/2002,Utilities,-.13093048
+30/09/2002,Communication,-.13674442
+30/09/2002,Personal and Business Services,-.1259457
+30/09/2002,Business Equipment,-.23833686
+30/09/2002,Business Supplies and Shipping Containers,-.13534679
+30/09/2002,Transportation,-.16098888
+30/09/2002,Wholesale,-.020377968
+30/09/2002,Retail,-.17550544
+30/09/2002,"Restaurants, Hotels, Motels",-.21073595
+30/09/2002,"Banking, Insurance, Real Estate, Trading",-.15841198
+30/09/2002,Everything Else,-.13653494
+31/12/2002,Food Products,.052828651
+31/12/2002,Beer & Liquor,-.053899392
+31/12/2002,Tobacco Products,.040433392
+31/12/2002,Recreation,.043373071
+31/12/2002,Printing and Publishing,.048881974
+31/12/2002,Consumer Goods,.048211802
+31/12/2002,Apparel,.037606888
+31/12/2002,"Healthcare, Medical Equipment, Pharmaceutical Products",.052705593
+31/12/2002,Chemicals,.16578983
+31/12/2002,Textiles,.08699663
+31/12/2002,Construction and Construction Materials,.066964835
+31/12/2002,Steel Works Etc,.17632149
+31/12/2002,Fabricated Products and Machinery,.028105509
+31/12/2002,Electrical Equipment,.13062201
+31/12/2002,Automobiles and Trucks,.082194969
+31/12/2002,"Aircraft, ships, and railroad equipment",.024724284
+31/12/2002,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.17953622
+31/12/2002,Coal,.098126225
+31/12/2002,Petroleum and Natural Gas,.064139657
+31/12/2002,Utilities,.080879062
+31/12/2002,Communication,.18063879
+31/12/2002,Personal and Business Services,.19710329
+31/12/2002,Business Equipment,.16868147
+31/12/2002,Business Supplies and Shipping Containers,.047691092
+31/12/2002,Transportation,.11087032
+31/12/2002,Wholesale,.0044852197
+31/12/2002,Retail,.021156365
+31/12/2002,"Restaurants, Hotels, Motels",.0067441473
+31/12/2002,"Banking, Insurance, Real Estate, Trading",.075341813
+31/12/2002,Everything Else,.12498736
+31/03/2003,Food Products,-.056630395
+31/03/2003,Beer & Liquor,-.045830086
+31/03/2003,Tobacco Products,-.030712448
+31/03/2003,Recreation,-.013071734
+31/03/2003,Printing and Publishing,-.090221904
+31/03/2003,Consumer Goods,.0056636855
+31/03/2003,Apparel,-.0070091574
+31/03/2003,"Healthcare, Medical Equipment, Pharmaceutical Products",.0055763409
+31/03/2003,Chemicals,.02596228
+31/03/2003,Textiles,-.037704013
+31/03/2003,Construction and Construction Materials,-.066167027
+31/03/2003,Steel Works Etc,.041070577
+31/03/2003,Fabricated Products and Machinery,-.037851755
+31/03/2003,Electrical Equipment,-.033949643
+31/03/2003,Automobiles and Trucks,.0053334329
+31/03/2003,"Aircraft, ships, and railroad equipment",-.25626794
+31/03/2003,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.055057142
+31/03/2003,Coal,-.063745983
+31/03/2003,Petroleum and Natural Gas,.01748001
+31/03/2003,Utilities,.04055427
+31/03/2003,Communication,-.035779666
+31/03/2003,Personal and Business Services,.056729034
+31/03/2003,Business Equipment,.0061659254
+31/03/2003,Business Supplies and Shipping Containers,-.067371167
+31/03/2003,Transportation,-.06981314
+31/03/2003,Wholesale,.0076926132
+31/03/2003,Retail,-.005225
+31/03/2003,"Restaurants, Hotels, Motels",-.017322216
+31/03/2003,"Banking, Insurance, Real Estate, Trading",-.039244033
+31/03/2003,Everything Else,-.13211779
+30/06/2003,Food Products,.080317587
+30/06/2003,Beer & Liquor,.11017752
+30/06/2003,Tobacco Products,.10039204
+30/06/2003,Recreation,.12151831
+30/06/2003,Printing and Publishing,.17007197
+30/06/2003,Consumer Goods,.093891203
+30/06/2003,Apparel,.15072462
+30/06/2003,"Healthcare, Medical Equipment, Pharmaceutical Products",.19611196
+30/06/2003,Chemicals,.22321936
+30/06/2003,Textiles,.16426784
+30/06/2003,Construction and Construction Materials,.2772119
+30/06/2003,Steel Works Etc,.36972922
+30/06/2003,Fabricated Products and Machinery,.14643069
+30/06/2003,Electrical Equipment,.27891794
+30/06/2003,Automobiles and Trucks,.22570647
+30/06/2003,"Aircraft, ships, and railroad equipment",.34590659
+30/06/2003,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.092023581
+30/06/2003,Coal,.14397496
+30/06/2003,Petroleum and Natural Gas,.13285615
+30/06/2003,Utilities,.22179912
+30/06/2003,Communication,.29999229
+30/06/2003,Personal and Business Services,.32877529
+30/06/2003,Business Equipment,.23900159
+30/06/2003,Business Supplies and Shipping Containers,.1191889
+30/06/2003,Transportation,.22821537
+30/06/2003,Wholesale,.11622788
+30/06/2003,Retail,.2296537
+30/06/2003,"Restaurants, Hotels, Motels",.24378625
+30/06/2003,"Banking, Insurance, Real Estate, Trading",.24077936
+30/06/2003,Everything Else,.19371663
+30/09/2003,Food Products,.029031312
+30/09/2003,Beer & Liquor,.042288017
+30/09/2003,Tobacco Products,-.042446975
+30/09/2003,Recreation,.10078944
+30/09/2003,Printing and Publishing,.013028192
+30/09/2003,Consumer Goods,.045200292
+30/09/2003,Apparel,.088834733
+30/09/2003,"Healthcare, Medical Equipment, Pharmaceutical Products",.022939127
+30/09/2003,Chemicals,.23510659
+30/09/2003,Textiles,.22297615
+30/09/2003,Construction and Construction Materials,.096508965
+30/09/2003,Steel Works Etc,.154635
+30/09/2003,Fabricated Products and Machinery,.1950331
+30/09/2003,Electrical Equipment,.2121501
+30/09/2003,Automobiles and Trucks,.14506544
+30/09/2003,"Aircraft, ships, and railroad equipment",.049493439
+30/09/2003,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.21414173
+30/09/2003,Coal,-.018363327
+30/09/2003,Petroleum and Natural Gas,.059191793
+30/09/2003,Utilities,.053602066
+30/09/2003,Communication,.050231408
+30/09/2003,Personal and Business Services,.19628426
+30/09/2003,Business Equipment,.2119498
+30/09/2003,Business Supplies and Shipping Containers,.062235344
+30/09/2003,Transportation,.099305712
+30/09/2003,Wholesale,.035622314
+30/09/2003,Retail,.083426379
+30/09/2003,"Restaurants, Hotels, Motels",.085897014
+30/09/2003,"Banking, Insurance, Real Estate, Trading",.040757079
+30/09/2003,Everything Else,-.0060771923
+31/12/2003,Food Products,.12282729
+31/12/2003,Beer & Liquor,.15345041
+31/12/2003,Tobacco Products,.22079477
+31/12/2003,Recreation,.1386119
+31/12/2003,Printing and Publishing,.1311973
+31/12/2003,Consumer Goods,.050527282
+31/12/2003,Apparel,.14551808
+31/12/2003,"Healthcare, Medical Equipment, Pharmaceutical Products",.14612821
+31/12/2003,Chemicals,.72124457
+31/12/2003,Textiles,.1333797
+31/12/2003,Construction and Construction Materials,.20244895
+31/12/2003,Steel Works Etc,.38000095
+31/12/2003,Fabricated Products and Machinery,.22744037
+31/12/2003,Electrical Equipment,.25107431
+31/12/2003,Automobiles and Trucks,.30503401
+31/12/2003,"Aircraft, ships, and railroad equipment",.23778048
+31/12/2003,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.25496963
+31/12/2003,Coal,.26732808
+31/12/2003,Petroleum and Natural Gas,.17984067
+31/12/2003,Utilities,.12200937
+31/12/2003,Communication,.18228106
+31/12/2003,Personal and Business Services,.23650627
+31/12/2003,Business Equipment,.15622137
+31/12/2003,Business Supplies and Shipping Containers,.14238806
+31/12/2003,Transportation,.19571026
+31/12/2003,Wholesale,.12971771
+31/12/2003,Retail,.082471631
+31/12/2003,"Restaurants, Hotels, Motels",.10724549
+31/12/2003,"Banking, Insurance, Real Estate, Trading",.15518203
+31/12/2003,Everything Else,.22188045
+31/03/2004,Food Products,.074260712
+31/03/2004,Beer & Liquor,-.018724874
+31/03/2004,Tobacco Products,.1275522
+31/03/2004,Recreation,.13622591
+31/03/2004,Printing and Publishing,-.0049785227
+31/03/2004,Consumer Goods,.063474923
+31/03/2004,Apparel,.089611068
+31/03/2004,"Healthcare, Medical Equipment, Pharmaceutical Products",.037841871
+31/03/2004,Chemicals,-.001892842
+31/03/2004,Textiles,.016360752
+31/03/2004,Construction and Construction Materials,.094373271
+31/03/2004,Steel Works Etc,.038063578
+31/03/2004,Fabricated Products and Machinery,.017800489
+31/03/2004,Electrical Equipment,.0056299102
+31/03/2004,Automobiles and Trucks,-.043661281
+31/03/2004,"Aircraft, ships, and railroad equipment",-.020617085
+31/03/2004,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.0071632317
+31/03/2004,Coal,.20413747
+31/03/2004,Petroleum and Natural Gas,.045043923
+31/03/2004,Utilities,.047783311
+31/03/2004,Communication,.0099554276
+31/03/2004,Personal and Business Services,.041379407
+31/03/2004,Business Equipment,.015111407
+31/03/2004,Business Supplies and Shipping Containers,.058294244
+31/03/2004,Transportation,.018869322
+31/03/2004,Wholesale,.0014618915
+31/03/2004,Retail,.093918815
+31/03/2004,"Restaurants, Hotels, Motels",.10068049
+31/03/2004,"Banking, Insurance, Real Estate, Trading",.056239016
+31/03/2004,Everything Else,.010449929
+30/06/2004,Food Products,.027731994
+30/06/2004,Beer & Liquor,-.0031952802
+30/06/2004,Tobacco Products,.0024600914
+30/06/2004,Recreation,.03223373
+30/06/2004,Printing and Publishing,.0069618854
+30/06/2004,Consumer Goods,.061058939
+30/06/2004,Apparel,.022289645
+30/06/2004,"Healthcare, Medical Equipment, Pharmaceutical Products",.031747397
+30/06/2004,Chemicals,.059481423
+30/06/2004,Textiles,.19067915
+30/06/2004,Construction and Construction Materials,.004056097
+30/06/2004,Steel Works Etc,.069478683
+30/06/2004,Fabricated Products and Machinery,.066362083
+30/06/2004,Electrical Equipment,.030763911
+30/06/2004,Automobiles and Trucks,.089050576
+30/06/2004,"Aircraft, ships, and railroad equipment",.18152483
+30/06/2004,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.10762198
+30/06/2004,Coal,.22499177
+30/06/2004,Petroleum and Natural Gas,.08478301
+30/06/2004,Utilities,.013231646
+30/06/2004,Communication,-.027706685
+30/06/2004,Personal and Business Services,.10263204
+30/06/2004,Business Equipment,.012268858
+30/06/2004,Business Supplies and Shipping Containers,.058466252
+30/06/2004,Transportation,.081884183
+30/06/2004,Wholesale,.060441699
+30/06/2004,Retail,-.02316202
+30/06/2004,"Restaurants, Hotels, Motels",.054931872
+30/06/2004,"Banking, Insurance, Real Estate, Trading",-.017822521
+30/06/2004,Everything Else,.065461002
+30/09/2004,Food Products,-.081212401
+30/09/2004,Beer & Liquor,-.062609062
+30/09/2004,Tobacco Products,.029890828
+30/09/2004,Recreation,-.017084848
+30/09/2004,Printing and Publishing,-.041597202
+30/09/2004,Consumer Goods,-.026184507
+30/09/2004,Apparel,-.023318199
+30/09/2004,"Healthcare, Medical Equipment, Pharmaceutical Products",-.051935453
+30/09/2004,Chemicals,.040625777
+30/09/2004,Textiles,-.024353474
+30/09/2004,Construction and Construction Materials,.06256853
+30/09/2004,Steel Works Etc,.093216285
+30/09/2004,Fabricated Products and Machinery,.020056026
+30/09/2004,Electrical Equipment,-.05656863
+30/09/2004,Automobiles and Trucks,-.056436941
+30/09/2004,"Aircraft, ships, and railroad equipment",.031885561
+30/09/2004,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.17169182
+30/09/2004,Coal,-.075940058
+30/09/2004,Petroleum and Natural Gas,.12006257
+30/09/2004,Utilities,.063878208
+30/09/2004,Communication,.035951011
+30/09/2004,Personal and Business Services,-.046089612
+30/09/2004,Business Equipment,-.087134741
+30/09/2004,Business Supplies and Shipping Containers,.0083340332
+30/09/2004,Transportation,.032146905
+30/09/2004,Wholesale,-.0047146315
+30/09/2004,Retail,.0074343369
+30/09/2004,"Restaurants, Hotels, Motels",.051667437
+30/09/2004,"Banking, Insurance, Real Estate, Trading",.03342307
+30/09/2004,Everything Else,-.0346862
+31/12/2004,Food Products,.1088373
+31/12/2004,Beer & Liquor,.049850661
+31/12/2004,Tobacco Products,.1926647
+31/12/2004,Recreation,.2291408
+31/12/2004,Printing and Publishing,.072399311
+31/12/2004,Consumer Goods,.048045944
+31/12/2004,Apparel,.13974288
+31/12/2004,"Healthcare, Medical Equipment, Pharmaceutical Products",.059393562
+31/12/2004,Chemicals,.13838567
+31/12/2004,Textiles,.11764552
+31/12/2004,Construction and Construction Materials,.14731286
+31/12/2004,Steel Works Etc,.13872461
+31/12/2004,Fabricated Products and Machinery,.10345778
+31/12/2004,Electrical Equipment,.13773207
+31/12/2004,Automobiles and Trucks,.093581595
+31/12/2004,"Aircraft, ships, and railroad equipment",.047409352
+31/12/2004,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.013246506
+31/12/2004,Coal,.2989555
+31/12/2004,Petroleum and Natural Gas,.060520746
+31/12/2004,Utilities,.1326628
+31/12/2004,Communication,.15748182
+31/12/2004,Personal and Business Services,.16902202
+31/12/2004,Business Equipment,.1601069
+31/12/2004,Business Supplies and Shipping Containers,.098562628
+31/12/2004,Transportation,.17471834
+31/12/2004,Wholesale,.13820997
+31/12/2004,Retail,.088425599
+31/12/2004,"Restaurants, Hotels, Motels",.20761314
+31/12/2004,"Banking, Insurance, Real Estate, Trading",.11680879
+31/12/2004,Everything Else,.07609158
+31/03/2005,Food Products,.0071395985
+31/03/2005,Beer & Liquor,-.025213111
+31/03/2005,Tobacco Products,.055659253
+31/03/2005,Recreation,.02437173
+31/03/2005,Printing and Publishing,-.032639347
+31/03/2005,Consumer Goods,-.018639127
+31/03/2005,Apparel,-.0030559157
+31/03/2005,"Healthcare, Medical Equipment, Pharmaceutical Products",-.016048256
+31/03/2005,Chemicals,.068704411
+31/03/2005,Textiles,.028714705
+31/03/2005,Construction and Construction Materials,.0012176263
+31/03/2005,Steel Works Etc,.015803928
+31/03/2005,Fabricated Products and Machinery,-.0021588723
+31/03/2005,Electrical Equipment,-.0064849597
+31/03/2005,Automobiles and Trucks,-.10128237
+31/03/2005,"Aircraft, ships, and railroad equipment",.07559593
+31/03/2005,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.02169659
+31/03/2005,Coal,-.05413257
+31/03/2005,Petroleum and Natural Gas,.19971615
+31/03/2005,Utilities,.052144714
+31/03/2005,Communication,-.046672679
+31/03/2005,Personal and Business Services,-.073964059
+31/03/2005,Business Equipment,-.043898437
+31/03/2005,Business Supplies and Shipping Containers,-.026282558
+31/03/2005,Transportation,-.024578569
+31/03/2005,Wholesale,.018331734
+31/03/2005,Retail,.000017740167
+31/03/2005,"Restaurants, Hotels, Motels",-.0082189925
+31/03/2005,"Banking, Insurance, Real Estate, Trading",-.025171371
+31/03/2005,Everything Else,-.011899508
+30/06/2005,Food Products,.012704466
+30/06/2005,Beer & Liquor,.0086311596
+30/06/2005,Tobacco Products,.009595356
+30/06/2005,Recreation,-.016177852
+30/06/2005,Printing and Publishing,-.016405502
+30/06/2005,Consumer Goods,-.013052343
+30/06/2005,Apparel,.04608598
+30/06/2005,"Healthcare, Medical Equipment, Pharmaceutical Products",.087708317
+30/06/2005,Chemicals,-.055933818
+30/06/2005,Textiles,.052737329
+30/06/2005,Construction and Construction Materials,.07915087
+30/06/2005,Steel Works Etc,.033419594
+30/06/2005,Fabricated Products and Machinery,-.012852006
+30/06/2005,Electrical Equipment,-.014581123
+30/06/2005,Automobiles and Trucks,.0058088521
+30/06/2005,"Aircraft, ships, and railroad equipment",.085325956
+30/06/2005,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.017902452
+30/06/2005,Coal,.026931299
+30/06/2005,Petroleum and Natural Gas,.047893945
+30/06/2005,Utilities,.092832409
+30/06/2005,Communication,.026620528
+30/06/2005,Personal and Business Services,.018404661
+30/06/2005,Business Equipment,.012748134
+30/06/2005,Business Supplies and Shipping Containers,-.056725476
+30/06/2005,Transportation,-.023694584
+30/06/2005,Wholesale,.0097368769
+30/06/2005,Retail,.046036139
+30/06/2005,"Restaurants, Hotels, Motels",-.0127329
+30/06/2005,"Banking, Insurance, Real Estate, Trading",.054102331
+30/06/2005,Everything Else,.039089937
+30/09/2005,Food Products,.067779936
+30/09/2005,Beer & Liquor,.012921163
+30/09/2005,Tobacco Products,.084951103
+30/09/2005,Recreation,.0061852303
+30/09/2005,Printing and Publishing,.0091786655
+30/09/2005,Consumer Goods,.07248985
+30/09/2005,Apparel,.038953435
+30/09/2005,"Healthcare, Medical Equipment, Pharmaceutical Products",.060920246
+30/09/2005,Chemicals,.076986626
+30/09/2005,Textiles,.065700702
+30/09/2005,Construction and Construction Materials,.12997209
+30/09/2005,Steel Works Etc,.38749501
+30/09/2005,Fabricated Products and Machinery,.076376639
+30/09/2005,Electrical Equipment,.13240632
+30/09/2005,Automobiles and Trucks,.18461719
+30/09/2005,"Aircraft, ships, and railroad equipment",.05129071
+30/09/2005,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.3164669
+30/09/2005,Coal,.045831859
+30/09/2005,Petroleum and Natural Gas,.20413303
+30/09/2005,Utilities,.20791598
+30/09/2005,Communication,.12894979
+30/09/2005,Personal and Business Services,.17444848
+30/09/2005,Business Equipment,.040163092
+30/09/2005,Business Supplies and Shipping Containers,.03606448
+30/09/2005,Transportation,.060392164
+30/09/2005,Wholesale,.020835301
+30/09/2005,Retail,.0034705536
+30/09/2005,"Restaurants, Hotels, Motels",.0069155847
+30/09/2005,"Banking, Insurance, Real Estate, Trading",.21595217
+30/09/2005,Everything Else,.13136868
+31/12/2005,Food Products,-.015600941
+31/12/2005,Beer & Liquor,.00097049808
+31/12/2005,Tobacco Products,.028176464
+31/12/2005,Recreation,.06940791
+31/12/2005,Printing and Publishing,-.052716751
+31/12/2005,Consumer Goods,.013708297
+31/12/2005,Apparel,.049922224
+31/12/2005,"Healthcare, Medical Equipment, Pharmaceutical Products",.030702699
+31/12/2005,Chemicals,.13423997
+31/12/2005,Textiles,-.019945798
+31/12/2005,Construction and Construction Materials,.013120328
+31/12/2005,Steel Works Etc,-.031145019
+31/12/2005,Fabricated Products and Machinery,.065196119
+31/12/2005,Electrical Equipment,-.019883426
+31/12/2005,Automobiles and Trucks,.050359808
+31/12/2005,"Aircraft, ships, and railroad equipment",.019613635
+31/12/2005,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.071504496
+31/12/2005,Coal,-.18188676
+31/12/2005,Petroleum and Natural Gas,-.039903149
+31/12/2005,Utilities,-.014496
+31/12/2005,Communication,.033397749
+31/12/2005,Personal and Business Services,-.0039228704
+31/12/2005,Business Equipment,.046553068
+31/12/2005,Business Supplies and Shipping Containers,.036862709
+31/12/2005,Transportation,.089663208
+31/12/2005,Wholesale,.0082186218
+31/12/2005,Retail,.031259142
+31/12/2005,"Restaurants, Hotels, Motels",.10649135
+31/12/2005,"Banking, Insurance, Real Estate, Trading",.025509447
+31/12/2005,Everything Else,-.020868519
+31/03/2006,Food Products,.051500365
+31/03/2006,Beer & Liquor,.080144152
+31/03/2006,Tobacco Products,.03001228
+31/03/2006,Recreation,.13513704
+31/03/2006,Printing and Publishing,.026509922
+31/03/2006,Consumer Goods,.04973809
+31/03/2006,Apparel,.053443737
+31/03/2006,"Healthcare, Medical Equipment, Pharmaceutical Products",.038465898
+31/03/2006,Chemicals,.19138443
+31/03/2006,Textiles,.11849365
+31/03/2006,Construction and Construction Materials,.11038195
+31/03/2006,Steel Works Etc,.36194491
+31/03/2006,Fabricated Products and Machinery,.095674731
+31/03/2006,Electrical Equipment,.1094428
+31/03/2006,Automobiles and Trucks,.084592663
+31/03/2006,"Aircraft, ships, and railroad equipment",.14277153
+31/03/2006,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.18305947
+31/03/2006,Coal,.33858201
+31/03/2006,Petroleum and Natural Gas,.16810922
+31/03/2006,Utilities,.20719332
+31/03/2006,Communication,.099859513
+31/03/2006,Personal and Business Services,.079242833
+31/03/2006,Business Equipment,.08210662
+31/03/2006,Business Supplies and Shipping Containers,.11958651
+31/03/2006,Transportation,.099537201
+31/03/2006,Wholesale,.063023128
+31/03/2006,Retail,.076042272
+31/03/2006,"Restaurants, Hotels, Motels",.14139594
+31/03/2006,"Banking, Insurance, Real Estate, Trading",.049271673
+31/03/2006,Everything Else,.084361278
+30/06/2006,Food Products,.030325992
+30/06/2006,Beer & Liquor,.052487068
+30/06/2006,Tobacco Products,.057641268
+30/06/2006,Recreation,.000031445848
+30/06/2006,Printing and Publishing,-.020495243
+30/06/2006,Consumer Goods,.0072637149
+30/06/2006,Apparel,.000040309696
+30/06/2006,"Healthcare, Medical Equipment, Pharmaceutical Products",-.020022348
+30/06/2006,Chemicals,-.044229858
+30/06/2006,Textiles,-.10665718
+30/06/2006,Construction and Construction Materials,-.077291377
+30/06/2006,Steel Works Etc,.031571295
+30/06/2006,Fabricated Products and Machinery,-.025981233
+30/06/2006,Electrical Equipment,-.093726717
+30/06/2006,Automobiles and Trucks,-.022905076
+30/06/2006,"Aircraft, ships, and railroad equipment",.03315109
+30/06/2006,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.039174791
+30/06/2006,Coal,-.11000695
+30/06/2006,Petroleum and Natural Gas,.036353208
+30/06/2006,Utilities,.019662989
+30/06/2006,Communication,.026357794
+30/06/2006,Personal and Business Services,-.056420323
+30/06/2006,Business Equipment,-.065498784
+30/06/2006,Business Supplies and Shipping Containers,-.023121178
+30/06/2006,Transportation,-.0062517356
+30/06/2006,Wholesale,-.0040509612
+30/06/2006,Retail,-.040289611
+30/06/2006,"Restaurants, Hotels, Motels",.0518125
+30/06/2006,"Banking, Insurance, Real Estate, Trading",-.0073564448
+30/06/2006,Everything Else,.035147771
+30/09/2006,Food Products,.054291181
+30/09/2006,Beer & Liquor,.074157327
+30/09/2006,Tobacco Products,.086084053
+30/09/2006,Recreation,-.013814309
+30/09/2006,Printing and Publishing,.013371266
+30/09/2006,Consumer Goods,.085916944
+30/09/2006,Apparel,.059056245
+30/09/2006,"Healthcare, Medical Equipment, Pharmaceutical Products",.06518738
+30/09/2006,Chemicals,.013426061
+30/09/2006,Textiles,-.11588399
+30/09/2006,Construction and Construction Materials,.086908944
+30/09/2006,Steel Works Etc,-.029047841
+30/09/2006,Fabricated Products and Machinery,.0089421235
+30/09/2006,Electrical Equipment,.03896077
+30/09/2006,Automobiles and Trucks,.042156026
+30/09/2006,"Aircraft, ships, and railroad equipment",-.0073918737
+30/09/2006,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.088680677
+30/09/2006,Coal,-.084500082
+30/09/2006,Petroleum and Natural Gas,.026282895
+30/09/2006,Utilities,.17681167
+30/09/2006,Communication,.15035063
+30/09/2006,Personal and Business Services,.038773403
+30/09/2006,Business Equipment,.030575076
+30/09/2006,Business Supplies and Shipping Containers,.068996191
+30/09/2006,Transportation,.068653442
+30/09/2006,Wholesale,.058620598
+30/09/2006,Retail,.050853781
+30/09/2006,"Restaurants, Hotels, Motels",.022062797
+30/09/2006,"Banking, Insurance, Real Estate, Trading",.10282806
+30/09/2006,Everything Else,.044343568
+31/12/2006,Food Products,.081738003
+31/12/2006,Beer & Liquor,.094198942
+31/12/2006,Tobacco Products,.21641132
+31/12/2006,Recreation,.17081681
+31/12/2006,Printing and Publishing,.076732643
+31/12/2006,Consumer Goods,.065498285
+31/12/2006,Apparel,.11247194
+31/12/2006,"Healthcare, Medical Equipment, Pharmaceutical Products",.018204246
+31/12/2006,Chemicals,.15238024
+31/12/2006,Textiles,.14410099
+31/12/2006,Construction and Construction Materials,.19551133
+31/12/2006,Steel Works Etc,.22284797
+31/12/2006,Fabricated Products and Machinery,.081475668
+31/12/2006,Electrical Equipment,.15898116
+31/12/2006,Automobiles and Trucks,.1794657
+31/12/2006,"Aircraft, ships, and railroad equipment",.1125598
+31/12/2006,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.11408013
+31/12/2006,Coal,.16861275
+31/12/2006,Petroleum and Natural Gas,.21013948
+31/12/2006,Utilities,.090212621
+31/12/2006,Communication,.22778101
+31/12/2006,Personal and Business Services,.22698084
+31/12/2006,Business Equipment,.089004137
+31/12/2006,Business Supplies and Shipping Containers,.092882439
+31/12/2006,Transportation,.1746062
+31/12/2006,Wholesale,.053912859
+31/12/2006,Retail,.056792762
+31/12/2006,"Restaurants, Hotels, Motels",.15268232
+31/12/2006,"Banking, Insurance, Real Estate, Trading",.13048643
+31/12/2006,Everything Else,.14261225
+31/03/2007,Food Products,.044548891
+31/03/2007,Beer & Liquor,.043041453
+31/03/2007,Tobacco Products,.11021836
+31/03/2007,Recreation,.072695427
+31/03/2007,Printing and Publishing,.067998394
+31/03/2007,Consumer Goods,-.0049740998
+31/03/2007,Apparel,.043135431
+31/03/2007,"Healthcare, Medical Equipment, Pharmaceutical Products",.04400263
+31/03/2007,Chemicals,.082769692
+31/03/2007,Textiles,.12658541
+31/03/2007,Construction and Construction Materials,.0164742
+31/03/2007,Steel Works Etc,.10848425
+31/03/2007,Fabricated Products and Machinery,.044626322
+31/03/2007,Electrical Equipment,-.043830611
+31/03/2007,Automobiles and Trucks,.018010499
+31/03/2007,"Aircraft, ships, and railroad equipment",.025785809
+31/03/2007,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.12783857
+31/03/2007,Coal,.17973047
+31/03/2007,Petroleum and Natural Gas,-.079567134
+31/03/2007,Utilities,.068753593
+31/03/2007,Communication,.022314236
+31/03/2007,Personal and Business Services,.038744118
+31/03/2007,Business Equipment,.11143376
+31/03/2007,Business Supplies and Shipping Containers,.0077597853
+31/03/2007,Transportation,.1145053
+31/03/2007,Wholesale,.056926638
+31/03/2007,Retail,.040678807
+31/03/2007,"Restaurants, Hotels, Motels",-.010353509
+31/03/2007,"Banking, Insurance, Real Estate, Trading",.015495411
+31/03/2007,Everything Else,-.013405631
+30/06/2007,Food Products,.065559022
+30/06/2007,Beer & Liquor,.085155688
+30/06/2007,Tobacco Products,.046780579
+30/06/2007,Recreation,.037354488
+30/06/2007,Printing and Publishing,.074354015
+30/06/2007,Consumer Goods,.012646001
+30/06/2007,Apparel,.12585518
+30/06/2007,"Healthcare, Medical Equipment, Pharmaceutical Products",.039651569
+30/06/2007,Chemicals,.31691015
+30/06/2007,Textiles,.089945093
+30/06/2007,Construction and Construction Materials,.20405303
+30/06/2007,Steel Works Etc,.12349357
+30/06/2007,Fabricated Products and Machinery,.1262558
+30/06/2007,Electrical Equipment,.12933676
+30/06/2007,Automobiles and Trucks,.055053476
+30/06/2007,"Aircraft, ships, and railroad equipment",.094184451
+30/06/2007,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.23608075
+30/06/2007,Coal,.58662856
+30/06/2007,Petroleum and Natural Gas,.27973658
+30/06/2007,Utilities,.10614786
+30/06/2007,Communication,.14811623
+30/06/2007,Personal and Business Services,.13233986
+30/06/2007,Business Equipment,.14787018
+30/06/2007,Business Supplies and Shipping Containers,.08685039
+30/06/2007,Transportation,.11982368
+30/06/2007,Wholesale,.040329564
+30/06/2007,Retail,.15075238
+30/06/2007,"Restaurants, Hotels, Motels",.015446881
+30/06/2007,"Banking, Insurance, Real Estate, Trading",.053455427
+30/06/2007,Everything Else,.10412051
+30/09/2007,Food Products,.061452117
+30/09/2007,Beer & Liquor,.043448143
+30/09/2007,Tobacco Products,-.0072788694
+30/09/2007,Recreation,.045261126
+30/09/2007,Printing and Publishing,-.088279195
+30/09/2007,Consumer Goods,.083666109
+30/09/2007,Apparel,.013441745
+30/09/2007,"Healthcare, Medical Equipment, Pharmaceutical Products",.023917546
+30/09/2007,Chemicals,.27562574
+30/09/2007,Textiles,.0010637221
+30/09/2007,Construction and Construction Materials,-.10909549
+30/09/2007,Steel Works Etc,.030315615
+30/09/2007,Fabricated Products and Machinery,.10153216
+30/09/2007,Electrical Equipment,.032748122
+30/09/2007,Automobiles and Trucks,-.035315573
+30/09/2007,"Aircraft, ships, and railroad equipment",.082778297
+30/09/2007,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.21414177
+30/09/2007,Coal,.31947994
+30/09/2007,Petroleum and Natural Gas,.28053424
+30/09/2007,Utilities,.0077369618
+30/09/2007,Communication,.16774851
+30/09/2007,Personal and Business Services,.16713646
+30/09/2007,Business Equipment,.060999185
+30/09/2007,Business Supplies and Shipping Containers,.025031039
+30/09/2007,Transportation,.64458942
+30/09/2007,Wholesale,.034587782
+30/09/2007,Retail,-.018714381
+30/09/2007,"Restaurants, Hotels, Motels",.16050352
+30/09/2007,"Banking, Insurance, Real Estate, Trading",.017874537
+30/09/2007,Everything Else,.039571881
+31/12/2007,Food Products,.066850588
+31/12/2007,Beer & Liquor,-.019553985
+31/12/2007,Tobacco Products,.11358069
+31/12/2007,Recreation,-.011923206
+31/12/2007,Printing and Publishing,-.085932031
+31/12/2007,Consumer Goods,.0088977823
+31/12/2007,Apparel,-.0100553
+31/12/2007,"Healthcare, Medical Equipment, Pharmaceutical Products",-.021158004
+31/12/2007,Chemicals,-.11037115
+31/12/2007,Textiles,.029941063
+31/12/2007,Construction and Construction Materials,-.099766493
+31/12/2007,Steel Works Etc,.048666835
+31/12/2007,Fabricated Products and Machinery,-.034224238
+31/12/2007,Electrical Equipment,-.23703399
+31/12/2007,Automobiles and Trucks,-.056700215
+31/12/2007,"Aircraft, ships, and railroad equipment",-.049906157
+31/12/2007,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.034730524
+31/12/2007,Coal,-.035611395
+31/12/2007,Petroleum and Natural Gas,.040894818
+31/12/2007,Utilities,.0023407021
+31/12/2007,Communication,.032872912
+31/12/2007,Personal and Business Services,.0070718103
+31/12/2007,Business Equipment,-.0063360655
+31/12/2007,Business Supplies and Shipping Containers,-.018654976
+31/12/2007,Transportation,-.049313657
+31/12/2007,Wholesale,.01988258
+31/12/2007,Retail,-.022112114
+31/12/2007,"Restaurants, Hotels, Motels",-.070152648
+31/12/2007,"Banking, Insurance, Real Estate, Trading",-.025196876
+31/12/2007,Everything Else,.0024644372
+31/03/2008,Food Products,-.025021594
+31/03/2008,Beer & Liquor,-.059008028
+31/03/2008,Tobacco Products,-.10144001
+31/03/2008,Recreation,-.088723175
+31/03/2008,Printing and Publishing,-.082351983
+31/03/2008,Consumer Goods,-.035188425
+31/03/2008,Apparel,.044877488
+31/03/2008,"Healthcare, Medical Equipment, Pharmaceutical Products",-.062419236
+31/03/2008,Chemicals,-.10941374
+31/03/2008,Textiles,-.078052327
+31/03/2008,Construction and Construction Materials,.058059536
+31/03/2008,Steel Works Etc,.020289226
+31/03/2008,Fabricated Products and Machinery,-.033836376
+31/03/2008,Electrical Equipment,-.099273369
+31/03/2008,Automobiles and Trucks,-.078221247
+31/03/2008,"Aircraft, ships, and railroad equipment",-.12136682
+31/03/2008,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.005220775
+31/03/2008,Coal,-.14677028
+31/03/2008,Petroleum and Natural Gas,-.1814989
+31/03/2008,Utilities,.025560746
+31/03/2008,Communication,-.088066995
+31/03/2008,Personal and Business Services,-.12552439
+31/03/2008,Business Equipment,-.10855743
+31/03/2008,Business Supplies and Shipping Containers,-.070570871
+31/03/2008,Transportation,-.050986476
+31/03/2008,Wholesale,-.023441186
+31/03/2008,Retail,-.021703571
+31/03/2008,"Restaurants, Hotels, Motels",-.039108284
+31/03/2008,"Banking, Insurance, Real Estate, Trading",.031783134
+31/03/2008,Everything Else,-.060833063
+30/06/2008,Food Products,-.10122777
+30/06/2008,Beer & Liquor,.0039715134
+30/06/2008,Tobacco Products,-.01140025
+30/06/2008,Recreation,-.007153362
+30/06/2008,Printing and Publishing,-.043724831
+30/06/2008,Consumer Goods,-.079769738
+30/06/2008,Apparel,-.1087409
+30/06/2008,"Healthcare, Medical Equipment, Pharmaceutical Products",.019232417
+30/06/2008,Chemicals,-.0038970835
+30/06/2008,Textiles,.013079028
+30/06/2008,Construction and Construction Materials,-.066412635
+30/06/2008,Steel Works Etc,.11222236
+30/06/2008,Fabricated Products and Machinery,-.056620225
+30/06/2008,Electrical Equipment,.014204558
+30/06/2008,Automobiles and Trucks,-.064094588
+30/06/2008,"Aircraft, ships, and railroad equipment",-.043007135
+30/06/2008,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.19571403
+30/06/2008,Coal,.52222973
+30/06/2008,Petroleum and Natural Gas,.15209192
+30/06/2008,Utilities,.0041380301
+30/06/2008,Communication,-.093384005
+30/06/2008,Personal and Business Services,-.006216188
+30/06/2008,Business Equipment,.029990317
+30/06/2008,Business Supplies and Shipping Containers,-.044417012
+30/06/2008,Transportation,-.075096302
+30/06/2008,Wholesale,-.017552909
+30/06/2008,Retail,-.0091506923
+30/06/2008,"Restaurants, Hotels, Motels",-.056688648
+30/06/2008,"Banking, Insurance, Real Estate, Trading",-.12610036
+30/06/2008,Everything Else,.064994514
+30/09/2008,Food Products,.019734133
+30/09/2008,Beer & Liquor,-.011753425
+30/09/2008,Tobacco Products,.0025346847
+30/09/2008,Recreation,-.075472109
+30/09/2008,Printing and Publishing,-.090835005
+30/09/2008,Consumer Goods,.07888633
+30/09/2008,Apparel,.066649906
+30/09/2008,"Healthcare, Medical Equipment, Pharmaceutical Products",.0050391061
+30/09/2008,Chemicals,-.22102287
+30/09/2008,Textiles,-.10036339
+30/09/2008,Construction and Construction Materials,-.020555304
+30/09/2008,Steel Works Etc,-.36604634
+30/09/2008,Fabricated Products and Machinery,-.12728494
+30/09/2008,Electrical Equipment,-.18248871
+30/09/2008,Automobiles and Trucks,-.099488758
+30/09/2008,"Aircraft, ships, and railroad equipment",-.10777643
+30/09/2008,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.37800011
+30/09/2008,Coal,-.42431465
+30/09/2008,Petroleum and Natural Gas,-.25955969
+30/09/2008,Utilities,-.067407049
+30/09/2008,Communication,-.14176461
+30/09/2008,Personal and Business Services,-.18359739
+30/09/2008,Business Equipment,-.13848673
+30/09/2008,Business Supplies and Shipping Containers,.0014769565
+30/09/2008,Transportation,-.042027213
+30/09/2008,Wholesale,.027761312
+30/09/2008,Retail,.015951617
+30/09/2008,"Restaurants, Hotels, Motels",.0025545901
+30/09/2008,"Banking, Insurance, Real Estate, Trading",-.011516794
+30/09/2008,Everything Else,-.17836107
+31/12/2008,Food Products,-.15786788
+31/12/2008,Beer & Liquor,-.14104091
+31/12/2008,Tobacco Products,-.10718663
+31/12/2008,Recreation,-.2708669
+31/12/2008,Printing and Publishing,-.2051325
+31/12/2008,Consumer Goods,-.1399526
+31/12/2008,Apparel,-.17618178
+31/12/2008,"Healthcare, Medical Equipment, Pharmaceutical Products",-.099905021
+31/12/2008,Chemicals,-.16194755
+31/12/2008,Textiles,-.32032689
+31/12/2008,Construction and Construction Materials,-.2348467
+31/12/2008,Steel Works Etc,-.29755253
+31/12/2008,Fabricated Products and Machinery,-.25551519
+31/12/2008,Electrical Equipment,-.19832462
+31/12/2008,Automobiles and Trucks,-.27609006
+31/12/2008,"Aircraft, ships, and railroad equipment",-.23942247
+31/12/2008,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.19776616
+31/12/2008,Coal,-.33454359
+31/12/2008,Petroleum and Natural Gas,-.15658562
+31/12/2008,Utilities,-.14067884
+31/12/2008,Communication,-.11672861
+31/12/2008,Personal and Business Services,-.1584128
+31/12/2008,Business Equipment,-.23027232
+31/12/2008,Business Supplies and Shipping Containers,-.26918566
+31/12/2008,Transportation,-.17486563
+31/12/2008,Wholesale,-.13233058
+31/12/2008,Retail,-.11347758
+31/12/2008,"Restaurants, Hotels, Motels",-.084665425
+31/12/2008,"Banking, Insurance, Real Estate, Trading",-.2106948
+31/12/2008,Everything Else,-.12573977
+31/03/2009,Food Products,-.073457778
+31/03/2009,Beer & Liquor,-.14528349
+31/03/2009,Tobacco Products,-.13798669
+31/03/2009,Recreation,-.15126629
+31/03/2009,Printing and Publishing,-.062569201
+31/03/2009,Consumer Goods,-.17730495
+31/03/2009,Apparel,-.057549976
+31/03/2009,"Healthcare, Medical Equipment, Pharmaceutical Products",-.10486963
+31/03/2009,Chemicals,-.010794381
+31/03/2009,Textiles,-.10924091
+31/03/2009,Construction and Construction Materials,.075221412
+31/03/2009,Steel Works Etc,-.042294715
+31/03/2009,Fabricated Products and Machinery,-.1890284
+31/03/2009,Electrical Equipment,-.10033515
+31/03/2009,Automobiles and Trucks,-.0025353369
+31/03/2009,"Aircraft, ships, and railroad equipment",-.22569732
+31/03/2009,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.24300463
+31/03/2009,Coal,-.033377327
+31/03/2009,Petroleum and Natural Gas,-.011317913
+31/03/2009,Utilities,.0023447236
+31/03/2009,Communication,-.11911707
+31/03/2009,Personal and Business Services,.031151034
+31/03/2009,Business Equipment,.058300354
+31/03/2009,Business Supplies and Shipping Containers,-.18175788
+31/03/2009,Transportation,-.11059915
+31/03/2009,Wholesale,-.093010046
+31/03/2009,Retail,-.0010269105
+31/03/2009,"Restaurants, Hotels, Motels",-.073877469
+31/03/2009,"Banking, Insurance, Real Estate, Trading",-.035942499
+31/03/2009,Everything Else,-.19072191
+30/06/2009,Food Products,.20399688
+30/06/2009,Beer & Liquor,.2509008
+30/06/2009,Tobacco Products,.21292922
+30/06/2009,Recreation,.34175366
+30/06/2009,Printing and Publishing,.31098795
+30/06/2009,Consumer Goods,.15845557
+30/06/2009,Apparel,.17555244
+30/06/2009,"Healthcare, Medical Equipment, Pharmaceutical Products",.17360206
+30/06/2009,Chemicals,.3547146
+30/06/2009,Textiles,.40427563
+30/06/2009,Construction and Construction Materials,.30139551
+30/06/2009,Steel Works Etc,.7260887
+30/06/2009,Fabricated Products and Machinery,.24897815
+30/06/2009,Electrical Equipment,.22433367
+30/06/2009,Automobiles and Trucks,.33829001
+30/06/2009,"Aircraft, ships, and railroad equipment",.30342019
+30/06/2009,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.22740939
+30/06/2009,Coal,.86214966
+30/06/2009,Petroleum and Natural Gas,.27643171
+30/06/2009,Utilities,.23889324
+30/06/2009,Communication,.24549207
+30/06/2009,Personal and Business Services,.24457423
+30/06/2009,Business Equipment,.29115325
+30/06/2009,Business Supplies and Shipping Containers,.40818927
+30/06/2009,Transportation,.30805391
+30/06/2009,Wholesale,.1490951
+30/06/2009,Retail,.12424945
+30/06/2009,"Restaurants, Hotels, Motels",.31244689
+30/06/2009,"Banking, Insurance, Real Estate, Trading",.3905319
+30/06/2009,Everything Else,.30322853
+30/09/2009,Food Products,.18138769
+30/09/2009,Beer & Liquor,.10183533
+30/09/2009,Tobacco Products,.14880389
+30/09/2009,Recreation,.20587723
+30/09/2009,Printing and Publishing,.346746
+30/09/2009,Consumer Goods,.17642725
+30/09/2009,Apparel,.25193596
+30/09/2009,"Healthcare, Medical Equipment, Pharmaceutical Products",.16873586
+30/09/2009,Chemicals,.23541331
+30/09/2009,Textiles,.30955061
+30/09/2009,Construction and Construction Materials,.093858443
+30/09/2009,Steel Works Etc,.30021524
+30/09/2009,Fabricated Products and Machinery,.30502772
+30/09/2009,Electrical Equipment,.2318128
+30/09/2009,Automobiles and Trucks,.13278201
+30/09/2009,"Aircraft, ships, and railroad equipment",.27257752
+30/09/2009,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.22653897
+30/09/2009,Coal,.10211216
+30/09/2009,Petroleum and Natural Gas,.11755366
+30/09/2009,Utilities,.027895553
+30/09/2009,Communication,.14134786
+30/09/2009,Personal and Business Services,.11313254
+30/09/2009,Business Equipment,.21448843
+30/09/2009,Business Supplies and Shipping Containers,.29501104
+30/09/2009,Transportation,.25230607
+30/09/2009,Wholesale,.11552072
+30/09/2009,Retail,.13742158
+30/09/2009,"Restaurants, Hotels, Motels",.19454592
+30/09/2009,"Banking, Insurance, Real Estate, Trading",.22337674
+30/09/2009,Everything Else,.11836259
+31/12/2009,Food Products,.077169374
+31/12/2009,Beer & Liquor,.11875997
+31/12/2009,Tobacco Products,.03959734
+31/12/2009,Recreation,.0721597
+31/12/2009,Printing and Publishing,.14478782
+31/12/2009,Consumer Goods,.063042492
+31/12/2009,Apparel,.013890924
+31/12/2009,"Healthcare, Medical Equipment, Pharmaceutical Products",.087115578
+31/12/2009,Chemicals,.027233567
+31/12/2009,Textiles,.19710951
+31/12/2009,Construction and Construction Materials,.1794145
+31/12/2009,Steel Works Etc,.19789693
+31/12/2009,Fabricated Products and Machinery,.058205668
+31/12/2009,Electrical Equipment,.038982183
+31/12/2009,Automobiles and Trucks,.10822146
+31/12/2009,"Aircraft, ships, and railroad equipment",.045954023
+31/12/2009,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.16180122
+31/12/2009,Coal,.44317722
+31/12/2009,Petroleum and Natural Gas,.086031884
+31/12/2009,Utilities,.077911891
+31/12/2009,Communication,.034860507
+31/12/2009,Personal and Business Services,.043761805
+31/12/2009,Business Equipment,.11664871
+31/12/2009,Business Supplies and Shipping Containers,.11336608
+31/12/2009,Transportation,.079256594
+31/12/2009,Wholesale,.064546637
+31/12/2009,Retail,.063294783
+31/12/2009,"Restaurants, Hotels, Motels",.052068505
+31/12/2009,"Banking, Insurance, Real Estate, Trading",.10446509
+31/12/2009,Everything Else,.025408212
+31/03/2010,Food Products,.034769248
+31/03/2010,Beer & Liquor,-.014019107
+31/03/2010,Tobacco Products,.069062486
+31/03/2010,Recreation,.16166057
+31/03/2010,Printing and Publishing,.10912777
+31/03/2010,Consumer Goods,.06566561
+31/03/2010,Apparel,.15052788
+31/03/2010,"Healthcare, Medical Equipment, Pharmaceutical Products",.046035275
+31/03/2010,Chemicals,.037086401
+31/03/2010,Textiles,.087980419
+31/03/2010,Construction and Construction Materials,.044112332
+31/03/2010,Steel Works Etc,.098500699
+31/03/2010,Fabricated Products and Machinery,.11496846
+31/03/2010,Electrical Equipment,.13229874
+31/03/2010,Automobiles and Trucks,.10021037
+31/03/2010,"Aircraft, ships, and railroad equipment",.23419654
+31/03/2010,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.058224346
+31/03/2010,Coal,.13520686
+31/03/2010,Petroleum and Natural Gas,-.0052906969
+31/03/2010,Utilities,.0060009328
+31/03/2010,Communication,-.021564513
+31/03/2010,Personal and Business Services,.038691875
+31/03/2010,Business Equipment,.05376561
+31/03/2010,Business Supplies and Shipping Containers,.026752381
+31/03/2010,Transportation,.12181482
+31/03/2010,Wholesale,.055426866
+31/03/2010,Retail,.091309316
+31/03/2010,"Restaurants, Hotels, Motels",.17129683
+31/03/2010,"Banking, Insurance, Real Estate, Trading",.081938975
+31/03/2010,Everything Else,.019017311
+30/06/2010,Food Products,-.07047008
+30/06/2010,Beer & Liquor,-.040080469
+30/06/2010,Tobacco Products,-.090090752
+30/06/2010,Recreation,-.12101491
+30/06/2010,Printing and Publishing,-.12652609
+30/06/2010,Consumer Goods,-.071788587
+30/06/2010,Apparel,-.083280683
+30/06/2010,"Healthcare, Medical Equipment, Pharmaceutical Products",-.090550765
+30/06/2010,Chemicals,-.16184647
+30/06/2010,Textiles,-.049741447
+30/06/2010,Construction and Construction Materials,-.13292941
+30/06/2010,Steel Works Etc,-.19794643
+30/06/2010,Fabricated Products and Machinery,-.14150999
+30/06/2010,Electrical Equipment,-.094526045
+30/06/2010,Automobiles and Trucks,-.13841772
+30/06/2010,"Aircraft, ships, and railroad equipment",-.15185942
+30/06/2010,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.14663585
+30/06/2010,Coal,-.17497262
+30/06/2010,Petroleum and Natural Gas,-.14190836
+30/06/2010,Utilities,-.035760198
+30/06/2010,Communication,-.013142096
+30/06/2010,Personal and Business Services,-.12756298
+30/06/2010,Business Equipment,-.077616639
+30/06/2010,Business Supplies and Shipping Containers,-.04784634
+30/06/2010,Transportation,-.089873448
+30/06/2010,Wholesale,-.073879182
+30/06/2010,Retail,-.1196513
+30/06/2010,"Restaurants, Hotels, Motels",-.021094665
+30/06/2010,"Banking, Insurance, Real Estate, Trading",-.12272571
+30/06/2010,Everything Else,-.10832705
+30/09/2010,Food Products,.11279514
+30/09/2010,Beer & Liquor,.18479088
+30/09/2010,Tobacco Products,.20830151
+30/09/2010,Recreation,.12022679
+30/09/2010,Printing and Publishing,.13802214
+30/09/2010,Consumer Goods,.062848359
+30/09/2010,Apparel,.17216235
+30/09/2010,"Healthcare, Medical Equipment, Pharmaceutical Products",.11602604
+30/09/2010,Chemicals,.24513331
+30/09/2010,Textiles,.087107666
+30/09/2010,Construction and Construction Materials,.099183917
+30/09/2010,Steel Works Etc,.13340272
+30/09/2010,Fabricated Products and Machinery,.21121134
+30/09/2010,Electrical Equipment,.14665973
+30/09/2010,Automobiles and Trucks,.17517461
+30/09/2010,"Aircraft, ships, and railroad equipment",.099181883
+30/09/2010,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.25496554
+30/09/2010,Coal,.23525022
+30/09/2010,Petroleum and Natural Gas,.15920037
+30/09/2010,Utilities,.10805215
+30/09/2010,Communication,.17109425
+30/09/2010,Personal and Business Services,.18216425
+30/09/2010,Business Equipment,.15838902
+30/09/2010,Business Supplies and Shipping Containers,.10666905
+30/09/2010,Transportation,.16802971
+30/09/2010,Wholesale,.1153897
+30/09/2010,Retail,.12398644
+30/09/2010,"Restaurants, Hotels, Motels",.22131425
+30/09/2010,"Banking, Insurance, Real Estate, Trading",.12358728
+30/09/2010,Everything Else,.138272
+31/12/2010,Food Products,.076499909
+31/12/2010,Beer & Liquor,.021011028
+31/12/2010,Tobacco Products,.057987284
+31/12/2010,Recreation,.14517282
+31/12/2010,Printing and Publishing,.075036481
+31/12/2010,Consumer Goods,.082904585
+31/12/2010,Apparel,.093876883
+31/12/2010,"Healthcare, Medical Equipment, Pharmaceutical Products",.048218671
+31/12/2010,Chemicals,.20972338
+31/12/2010,Textiles,.14630142
+31/12/2010,Construction and Construction Materials,.20887595
+31/12/2010,Steel Works Etc,.14962718
+31/12/2010,Fabricated Products and Machinery,.18996544
+31/12/2010,Electrical Equipment,.10719486
+31/12/2010,Automobiles and Trucks,.18602264
+31/12/2010,"Aircraft, ships, and railroad equipment",.06698142
+31/12/2010,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.22289518
+31/12/2010,Coal,.32629248
+31/12/2010,Petroleum and Natural Gas,.16523153
+31/12/2010,Utilities,.054799221
+31/12/2010,Communication,.029347943
+31/12/2010,Personal and Business Services,.11332116
+31/12/2010,Business Equipment,.112184
+31/12/2010,Business Supplies and Shipping Containers,.10851981
+31/12/2010,Transportation,.12799038
+31/12/2010,Wholesale,.065747991
+31/12/2010,Retail,.1351835
+31/12/2010,"Restaurants, Hotels, Motels",.13778076
+31/12/2010,"Banking, Insurance, Real Estate, Trading",.083528027
+31/12/2010,Everything Else,.083967686
+31/03/2011,Food Products,.043633718
+31/03/2011,Beer & Liquor,.01159266
+31/03/2011,Tobacco Products,.12970401
+31/03/2011,Recreation,.072171569
+31/03/2011,Printing and Publishing,.075973161
+31/03/2011,Consumer Goods,-.025126478
+31/03/2011,Apparel,.0051683974
+31/03/2011,"Healthcare, Medical Equipment, Pharmaceutical Products",.063545093
+31/03/2011,Chemicals,.07069055
+31/03/2011,Textiles,.060744416
+31/03/2011,Construction and Construction Materials,.068656668
+31/03/2011,Steel Works Etc,.050298218
+31/03/2011,Fabricated Products and Machinery,.12313703
+31/03/2011,Electrical Equipment,.079633683
+31/03/2011,Automobiles and Trucks,-.010747286
+31/03/2011,"Aircraft, ships, and railroad equipment",.13365881
+31/03/2011,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.013075044
+31/03/2011,Coal,.1367446
+31/03/2011,Petroleum and Natural Gas,.13192713
+31/03/2011,Utilities,.05909064
+31/03/2011,Communication,.040506396
+31/03/2011,Personal and Business Services,.062417753
+31/03/2011,Business Equipment,.071833141
+31/03/2011,Business Supplies and Shipping Containers,.088625424
+31/03/2011,Transportation,.042257674
+31/03/2011,Wholesale,.033001579
+31/03/2011,Retail,.031136453
+31/03/2011,"Restaurants, Hotels, Motels",.034480169
+31/03/2011,"Banking, Insurance, Real Estate, Trading",.0494074
+31/03/2011,Everything Else,.10621525
+30/06/2011,Food Products,.051274251
+30/06/2011,Beer & Liquor,.049202017
+30/06/2011,Tobacco Products,.037698671
+30/06/2011,Recreation,-.037922733
+30/06/2011,Printing and Publishing,.029393444
+30/06/2011,Consumer Goods,.062174018
+30/06/2011,Apparel,.13541572
+30/06/2011,"Healthcare, Medical Equipment, Pharmaceutical Products",.086634122
+30/06/2011,Chemicals,.012305642
+30/06/2011,Textiles,.071340643
+30/06/2011,Construction and Construction Materials,-.019851411
+30/06/2011,Steel Works Etc,-.050350495
+30/06/2011,Fabricated Products and Machinery,-.047167115
+30/06/2011,Electrical Equipment,.023641052
+30/06/2011,Automobiles and Trucks,.0045182668
+30/06/2011,"Aircraft, ships, and railroad equipment",-.010462957
+30/06/2011,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.034397788
+30/06/2011,Coal,-.067547232
+30/06/2011,Petroleum and Natural Gas,-.038595282
+30/06/2011,Utilities,.043268569
+30/06/2011,Communication,.038659327
+30/06/2011,Personal and Business Services,.025353635
+30/06/2011,Business Equipment,.003471077
+30/06/2011,Business Supplies and Shipping Containers,.005601231
+30/06/2011,Transportation,.02457099
+30/06/2011,Wholesale,.067967094
+30/06/2011,Retail,.033350807
+30/06/2011,"Restaurants, Hotels, Motels",.083890222
+30/06/2011,"Banking, Insurance, Real Estate, Trading",-.016372707
+30/06/2011,Everything Else,.026396595
+30/09/2011,Food Products,-.064268701
+30/09/2011,Beer & Liquor,-.080223523
+30/09/2011,Tobacco Products,-.046828154
+30/09/2011,Recreation,-.21764974
+30/09/2011,Printing and Publishing,-.14540614
+30/09/2011,Consumer Goods,-.027462119
+30/09/2011,Apparel,-.041637052
+30/09/2011,"Healthcare, Medical Equipment, Pharmaceutical Products",-.1061405
+30/09/2011,Chemicals,-.21255799
+30/09/2011,Textiles,-.10843548
+30/09/2011,Construction and Construction Materials,-.2678017
+30/09/2011,Steel Works Etc,-.28772926
+30/09/2011,Fabricated Products and Machinery,-.2304185
+30/09/2011,Electrical Equipment,-.2877627
+30/09/2011,Automobiles and Trucks,-.25740701
+30/09/2011,"Aircraft, ships, and railroad equipment",-.19130009
+30/09/2011,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.22169904
+30/09/2011,Coal,-.37469283
+30/09/2011,Petroleum and Natural Gas,-.18866278
+30/09/2011,Utilities,-.044541296
+30/09/2011,Communication,-.085859828
+30/09/2011,Personal and Business Services,-.1280258
+30/09/2011,Business Equipment,-.074807972
+30/09/2011,Business Supplies and Shipping Containers,-.13390997
+30/09/2011,Transportation,-.16909859
+30/09/2011,Wholesale,-.075489402
+30/09/2011,Retail,-.086448297
+30/09/2011,"Restaurants, Hotels, Motels",-.060299117
+30/09/2011,"Banking, Insurance, Real Estate, Trading",-.17426305
+30/09/2011,Everything Else,-.17159304
+31/12/2011,Food Products,.076176658
+31/12/2011,Beer & Liquor,.15707493
+31/12/2011,Tobacco Products,.2175765
+31/12/2011,Recreation,.1174011
+31/12/2011,Printing and Publishing,.099869683
+31/12/2011,Consumer Goods,.063238099
+31/12/2011,Apparel,.099548355
+31/12/2011,"Healthcare, Medical Equipment, Pharmaceutical Products",.12131535
+31/12/2011,Chemicals,.1526605
+31/12/2011,Textiles,.13076705
+31/12/2011,Construction and Construction Materials,.21545339
+31/12/2011,Steel Works Etc,.19051325
+31/12/2011,Fabricated Products and Machinery,.19734506
+31/12/2011,Electrical Equipment,.133258
+31/12/2011,Automobiles and Trucks,.075972922
+31/12/2011,"Aircraft, ships, and railroad equipment",.20028515
+31/12/2011,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.05024666
+31/12/2011,Coal,.12531555
+31/12/2011,Petroleum and Natural Gas,.18219547
+31/12/2011,Utilities,.12064239
+31/12/2011,Communication,.064231001
+31/12/2011,Personal and Business Services,.074577726
+31/12/2011,Business Equipment,.085034609
+31/12/2011,Business Supplies and Shipping Containers,.15063596
+31/12/2011,Transportation,.19505575
+31/12/2011,Wholesale,.12000573
+31/12/2011,Retail,.15208124
+31/12/2011,"Restaurants, Hotels, Motels",.16858986
+31/12/2011,"Banking, Insurance, Real Estate, Trading",.083880484
+31/12/2011,Everything Else,.13202925
+31/03/2012,Food Products,.048425112
+31/03/2012,Beer & Liquor,.15951613
+31/03/2012,Tobacco Products,.1177825
+31/03/2012,Recreation,.18183899
+31/03/2012,Printing and Publishing,.054162975
+31/03/2012,Consumer Goods,.061595436
+31/03/2012,Apparel,.17327057
+31/03/2012,"Healthcare, Medical Equipment, Pharmaceutical Products",.09611614
+31/03/2012,Chemicals,.16984968
+31/03/2012,Textiles,.047658525
+31/03/2012,Construction and Construction Materials,.16421969
+31/03/2012,Steel Works Etc,.082266577
+31/03/2012,Fabricated Products and Machinery,.14588776
+31/03/2012,Electrical Equipment,.0785193
+31/03/2012,Automobiles and Trucks,.264763
+31/03/2012,"Aircraft, ships, and railroad equipment",.093456157
+31/03/2012,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.047527339
+31/03/2012,Coal,-.12624586
+31/03/2012,Petroleum and Natural Gas,.070971139
+31/03/2012,Utilities,.028417498
+31/03/2012,Communication,.076406844
+31/03/2012,Personal and Business Services,.1838519
+31/03/2012,Business Equipment,.25899124
+31/03/2012,Business Supplies and Shipping Containers,.1169228
+31/03/2012,Transportation,.066089272
+31/03/2012,Wholesale,.10070397
+31/03/2012,Retail,.12850788
+31/03/2012,"Restaurants, Hotels, Motels",.15899986
+31/03/2012,"Banking, Insurance, Real Estate, Trading",.17862177
+31/03/2012,Everything Else,.13585822
+30/06/2012,Food Products,.021399278
+30/06/2012,Beer & Liquor,.096482091
+30/06/2012,Tobacco Products,.041112803
+30/06/2012,Recreation,-.010602288
+30/06/2012,Printing and Publishing,.019972989
+30/06/2012,Consumer Goods,-.050518863
+30/06/2012,Apparel,-.12450746
+30/06/2012,"Healthcare, Medical Equipment, Pharmaceutical Products",.034309197
+30/06/2012,Chemicals,-.039579779
+30/06/2012,Textiles,.011267935
+30/06/2012,Construction and Construction Materials,.0008807613
+30/06/2012,Steel Works Etc,-.11057615
+30/06/2012,Fabricated Products and Machinery,-.050570991
+30/06/2012,Electrical Equipment,-.09137851
+30/06/2012,Automobiles and Trucks,-.12578723
+30/06/2012,"Aircraft, ships, and railroad equipment",-.038227137
+30/06/2012,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.089917943
+30/06/2012,Coal,-.17142345
+30/06/2012,Petroleum and Natural Gas,-.06634561
+30/06/2012,Utilities,.018808225
+30/06/2012,Communication,.035783894
+30/06/2012,Personal and Business Services,-.016475644
+30/06/2012,Business Equipment,-.095654786
+30/06/2012,Business Supplies and Shipping Containers,-.029183602
+30/06/2012,Transportation,.026199266
+30/06/2012,Wholesale,-.0045026867
+30/06/2012,Retail,.029329641
+30/06/2012,"Restaurants, Hotels, Motels",-.077645853
+30/06/2012,"Banking, Insurance, Real Estate, Trading",-.051893309
+30/06/2012,Everything Else,-.033158813
+30/09/2012,Food Products,.033235803
+30/09/2012,Beer & Liquor,.078196228
+30/09/2012,Tobacco Products,.019798642
+30/09/2012,Recreation,.021428613
+30/09/2012,Printing and Publishing,.037778117
+30/09/2012,Consumer Goods,.068244494
+30/09/2012,Apparel,.13482994
+30/09/2012,"Healthcare, Medical Equipment, Pharmaceutical Products",.082244672
+30/09/2012,Chemicals,.057472896
+30/09/2012,Textiles,.0043738023
+30/09/2012,Construction and Construction Materials,.086640686
+30/09/2012,Steel Works Etc,.057141345
+30/09/2012,Fabricated Products and Machinery,.083390303
+30/09/2012,Electrical Equipment,.077424221
+30/09/2012,Automobiles and Trucks,.027876141
+30/09/2012,"Aircraft, ships, and railroad equipment",-.0044211941
+30/09/2012,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.088783108
+30/09/2012,Coal,.028162621
+30/09/2012,Petroleum and Natural Gas,.097155675
+30/09/2012,Utilities,.032229777
+30/09/2012,Communication,.081608355
+30/09/2012,Personal and Business Services,.05459081
+30/09/2012,Business Equipment,.08950685
+30/09/2012,Business Supplies and Shipping Containers,.10248135
+30/09/2012,Transportation,-.010243816
+30/09/2012,Wholesale,.047279626
+30/09/2012,Retail,.083391324
+30/09/2012,"Restaurants, Hotels, Motels",.036075644
+30/09/2012,"Banking, Insurance, Real Estate, Trading",.073645592
+30/09/2012,Everything Else,.047434215
+31/12/2012,Food Products,.028614441
+31/12/2012,Beer & Liquor,.027669398
+31/12/2012,Tobacco Products,-.047187291
+31/12/2012,Recreation,.018337477
+31/12/2012,Printing and Publishing,-.0099296011
+31/12/2012,Consumer Goods,.042632151
+31/12/2012,Apparel,.080780342
+31/12/2012,"Healthcare, Medical Equipment, Pharmaceutical Products",.0064581279
+31/12/2012,Chemicals,.05250698
+31/12/2012,Textiles,.12250829
+31/12/2012,Construction and Construction Materials,.093285084
+31/12/2012,Steel Works Etc,.092776485
+31/12/2012,Fabricated Products and Machinery,.026672827
+31/12/2012,Electrical Equipment,.099438675
+31/12/2012,Automobiles and Trucks,.18572481
+31/12/2012,"Aircraft, ships, and railroad equipment",.068889491
+31/12/2012,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.075721242
+31/12/2012,Coal,.12227951
+31/12/2012,Petroleum and Natural Gas,-.0059165582
+31/12/2012,Utilities,-.020685501
+31/12/2012,Communication,.005213575
+31/12/2012,Personal and Business Services,.010824847
+31/12/2012,Business Equipment,-.023501566
+31/12/2012,Business Supplies and Shipping Containers,.049342763
+31/12/2012,Transportation,.0712694
+31/12/2012,Wholesale,.023233252
+31/12/2012,Retail,-.021199752
+31/12/2012,"Restaurants, Hotels, Motels",.011869097
+31/12/2012,"Banking, Insurance, Real Estate, Trading",.069325954
+31/12/2012,Everything Else,.057891317
+31/03/2013,Food Products,.14652368
+31/03/2013,Beer & Liquor,.12092348
+31/03/2013,Tobacco Products,.10547383
+31/03/2013,Recreation,.23999469
+31/03/2013,Printing and Publishing,.071572803
+31/03/2013,Consumer Goods,.13544111
+31/03/2013,Apparel,.11522488
+31/03/2013,"Healthcare, Medical Equipment, Pharmaceutical Products",.14877073
+31/03/2013,Chemicals,.11832514
+31/03/2013,Textiles,.18978654
+31/03/2013,Construction and Construction Materials,.12413124
+31/03/2013,Steel Works Etc,.01229508
+31/03/2013,Fabricated Products and Machinery,.089206755
+31/03/2013,Electrical Equipment,.11094526
+31/03/2013,Automobiles and Trucks,.084633425
+31/03/2013,"Aircraft, ships, and railroad equipment",.12925848
+31/03/2013,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.12442725
+31/03/2013,Coal,.004767267
+31/03/2013,Petroleum and Natural Gas,.06436725
+31/03/2013,Utilities,.13740125
+31/03/2013,Communication,.051160417
+31/03/2013,Personal and Business Services,.10318582
+31/03/2013,Business Equipment,.031292509
+31/03/2013,Business Supplies and Shipping Containers,.17610288
+31/03/2013,Transportation,.17107335
+31/03/2013,Wholesale,.14427575
+31/03/2013,Retail,.12757693
+31/03/2013,"Restaurants, Hotels, Motels",.15456976
+31/03/2013,"Banking, Insurance, Real Estate, Trading",.083931394
+31/03/2013,Everything Else,.14392199
+30/06/2013,Food Products,-.0004801834
+30/06/2013,Beer & Liquor,-.071892641
+30/06/2013,Tobacco Products,-.015466502
+30/06/2013,Recreation,.10272593
+30/06/2013,Printing and Publishing,.025810895
+30/06/2013,Consumer Goods,-.0073028668
+30/06/2013,Apparel,.11219108
+30/06/2013,"Healthcare, Medical Equipment, Pharmaceutical Products",.031161141
+30/06/2013,Chemicals,.0053412113
+30/06/2013,Textiles,.11577792
+30/06/2013,Construction and Construction Materials,-.044798128
+30/06/2013,Steel Works Etc,.018507257
+30/06/2013,Fabricated Products and Machinery,.0092279967
+30/06/2013,Electrical Equipment,-.0053913025
+30/06/2013,Automobiles and Trucks,.12235425
+30/06/2013,"Aircraft, ships, and railroad equipment",.11899656
+30/06/2013,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.17954172
+30/06/2013,Coal,.0037825222
+30/06/2013,Petroleum and Natural Gas,-.013203979
+30/06/2013,Utilities,-.017953323
+30/06/2013,Communication,.036156319
+30/06/2013,Personal and Business Services,.042222913
+30/06/2013,Business Equipment,.010145143
+30/06/2013,Business Supplies and Shipping Containers,.0066722217
+30/06/2013,Transportation,.0021362568
+30/06/2013,Wholesale,.034691673
+30/06/2013,Retail,.054202061
+30/06/2013,"Restaurants, Hotels, Motels",.020974915
+30/06/2013,"Banking, Insurance, Real Estate, Trading",.034895632
+30/06/2013,Everything Else,.12235785
+30/09/2013,Food Products,.012388409
+30/09/2013,Beer & Liquor,.099335462
+30/09/2013,Tobacco Products,.019421557
+30/09/2013,Recreation,.11046417
+30/09/2013,Printing and Publishing,.15332785
+30/09/2013,Consumer Goods,.028246777
+30/09/2013,Apparel,.10790931
+30/09/2013,"Healthcare, Medical Equipment, Pharmaceutical Products",.087772138
+30/09/2013,Chemicals,.12837595
+30/09/2013,Textiles,.1416081
+30/09/2013,Construction and Construction Materials,.069166139
+30/09/2013,Steel Works Etc,.11684115
+30/09/2013,Fabricated Products and Machinery,.082985595
+30/09/2013,Electrical Equipment,.15075724
+30/09/2013,Automobiles and Trucks,.092931673
+30/09/2013,"Aircraft, ships, and railroad equipment",.11943994
+30/09/2013,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.14395313
+30/09/2013,Coal,.050764207
+30/09/2013,Petroleum and Natural Gas,.067891687
+30/09/2013,Utilities,.027535172
+30/09/2013,Communication,.068560913
+30/09/2013,Personal and Business Services,.17889732
+30/09/2013,Business Equipment,.11192713
+30/09/2013,Business Supplies and Shipping Containers,.051692683
+30/09/2013,Transportation,.056838818
+30/09/2013,Wholesale,.058896914
+30/09/2013,Retail,.068005465
+30/09/2013,"Restaurants, Hotels, Motels",.11277775
+30/09/2013,"Banking, Insurance, Real Estate, Trading",.068151072
+30/09/2013,Everything Else,.15551868
+31/12/2013,Food Products,.076825336
+31/12/2013,Beer & Liquor,.067917593
+31/12/2013,Tobacco Products,.032713406
+31/12/2013,Recreation,.15209579
+31/12/2013,Printing and Publishing,.13868114
+31/12/2013,Consumer Goods,.084276408
+31/12/2013,Apparel,.15695263
+31/12/2013,"Healthcare, Medical Equipment, Pharmaceutical Products",.1053809
+31/12/2013,Chemicals,.11207466
+31/12/2013,Textiles,.11530529
+31/12/2013,Construction and Construction Materials,.096748441
+31/12/2013,Steel Works Etc,.16101228
+31/12/2013,Fabricated Products and Machinery,.1207234
+31/12/2013,Electrical Equipment,.096369728
+31/12/2013,Automobiles and Trucks,.036022153
+31/12/2013,"Aircraft, ships, and railroad equipment",.14326756
+31/12/2013,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.035944052
+31/12/2013,Coal,.093995973
+31/12/2013,Petroleum and Natural Gas,.085992046
+31/12/2013,Utilities,.037305385
+31/12/2013,Communication,.083737671
+31/12/2013,Personal and Business Services,.14280939
+31/12/2013,Business Equipment,.1136799
+31/12/2013,Business Supplies and Shipping Containers,.11525639
+31/12/2013,Transportation,.13096002
+31/12/2013,Wholesale,.084732078
+31/12/2013,Retail,.07429333
+31/12/2013,"Restaurants, Hotels, Motels",.10654539
+31/12/2013,"Banking, Insurance, Real Estate, Trading",.0887134
+31/12/2013,Everything Else,.091149732
+31/03/2014,Food Products,.016117377
+31/03/2014,Beer & Liquor,-.005898491
+31/03/2014,Tobacco Products,-.010631164
+31/03/2014,Recreation,.045949619
+31/03/2014,Printing and Publishing,-.085387699
+31/03/2014,Consumer Goods,-.0019454203
+31/03/2014,Apparel,-.012551676
+31/03/2014,"Healthcare, Medical Equipment, Pharmaceutical Products",.06491448
+31/03/2014,Chemicals,.0099802613
+31/03/2014,Textiles,-.056951884
+31/03/2014,Construction and Construction Materials,.011208024
+31/03/2014,Steel Works Etc,.0074148965
+31/03/2014,Fabricated Products and Machinery,-.0091809984
+31/03/2014,Electrical Equipment,.036051709
+31/03/2014,Automobiles and Trucks,-.0080419546
+31/03/2014,"Aircraft, ships, and railroad equipment",.022844322
+31/03/2014,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.024907742
+31/03/2014,Coal,.025361795
+31/03/2014,Petroleum and Natural Gas,.020181438
+31/03/2014,Utilities,.056282926
+31/03/2014,Communication,-.019087251
+31/03/2014,Personal and Business Services,.0097965319
+31/03/2014,Business Equipment,.030153144
+31/03/2014,Business Supplies and Shipping Containers,.0076746158
+31/03/2014,Transportation,.068850242
+31/03/2014,Wholesale,.046010584
+31/03/2014,Retail,-.0056809103
+31/03/2014,"Restaurants, Hotels, Motels",.015921431
+31/03/2014,"Banking, Insurance, Real Estate, Trading",.019080274
+31/03/2014,Everything Else,.081224218
+30/06/2014,Food Products,.081341781
+30/06/2014,Beer & Liquor,.081354901
+30/06/2014,Tobacco Products,.065303899
+30/06/2014,Recreation,.047074907
+30/06/2014,Printing and Publishing,.089043856
+30/06/2014,Consumer Goods,.0088305743
+30/06/2014,Apparel,.034016959
+30/06/2014,"Healthcare, Medical Equipment, Pharmaceutical Products",.052894276
+30/06/2014,Chemicals,.07121262
+30/06/2014,Textiles,-.034337763
+30/06/2014,Construction and Construction Materials,.035523482
+30/06/2014,Steel Works Etc,.034887791
+30/06/2014,Fabricated Products and Machinery,.053353429
+30/06/2014,Electrical Equipment,-.030821595
+30/06/2014,Automobiles and Trucks,.047966551
+30/06/2014,"Aircraft, ships, and railroad equipment",.040917668
+30/06/2014,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.048992798
+30/06/2014,Coal,.063155659
+30/06/2014,Petroleum and Natural Gas,.11744295
+30/06/2014,Utilities,.12219785
+30/06/2014,Communication,.063384995
+30/06/2014,Personal and Business Services,.027445462
+30/06/2014,Business Equipment,.096104771
+30/06/2014,Business Supplies and Shipping Containers,.049730003
+30/06/2014,Transportation,.085029893
+30/06/2014,Wholesale,.058455706
+30/06/2014,Retail,.024781175
+30/06/2014,"Restaurants, Hotels, Motels",.027712077
+30/06/2014,"Banking, Insurance, Real Estate, Trading",.036466561
+30/06/2014,Everything Else,.051770672
+30/09/2014,Food Products,.0046908516
+30/09/2014,Beer & Liquor,-.040328208
+30/09/2014,Tobacco Products,-.0046360348
+30/09/2014,Recreation,.015364231
+30/09/2014,Printing and Publishing,-.024744848
+30/09/2014,Consumer Goods,.034362532
+30/09/2014,Apparel,.097273879
+30/09/2014,"Healthcare, Medical Equipment, Pharmaceutical Products",.056311067
+30/09/2014,Chemicals,.0035700127
+30/09/2014,Textiles,-.062410995
+30/09/2014,Construction and Construction Materials,-.052962001
+30/09/2014,Steel Works Etc,-.029703902
+30/09/2014,Fabricated Products and Machinery,-.056565594
+30/09/2014,Electrical Equipment,-.027334195
+30/09/2014,Automobiles and Trucks,-.03920402
+30/09/2014,"Aircraft, ships, and railroad equipment",.027762759
+30/09/2014,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.11865371
+30/09/2014,Coal,-.011234276
+30/09/2014,Petroleum and Natural Gas,-.077134192
+30/09/2014,Utilities,-.010379506
+30/09/2014,Communication,.025979711
+30/09/2014,Personal and Business Services,.043832522
+30/09/2014,Business Equipment,.0342969
+30/09/2014,Business Supplies and Shipping Containers,-.048637208
+30/09/2014,Transportation,.036610588
+30/09/2014,Wholesale,.0042063366
+30/09/2014,Retail,.035520874
+30/09/2014,"Restaurants, Hotels, Motels",-.014991902
+30/09/2014,"Banking, Insurance, Real Estate, Trading",-.0021862232
+30/09/2014,Everything Else,-.014772542
+31/12/2014,Food Products,.026151055
+31/12/2014,Beer & Liquor,.01329833
+31/12/2014,Tobacco Products,.016984465
+31/12/2014,Recreation,.03879163
+31/12/2014,Printing and Publishing,.081741862
+31/12/2014,Consumer Goods,.082944423
+31/12/2014,Apparel,.086471297
+31/12/2014,"Healthcare, Medical Equipment, Pharmaceutical Products",.05614477
+31/12/2014,Chemicals,.045398489
+31/12/2014,Textiles,.10509478
+31/12/2014,Construction and Construction Materials,.064799584
+31/12/2014,Steel Works Etc,-.038084053
+31/12/2014,Fabricated Products and Machinery,.0094237579
+31/12/2014,Electrical Equipment,-.0030928859
+31/12/2014,Automobiles and Trucks,.068862855
+31/12/2014,"Aircraft, ships, and railroad equipment",.042918038
+31/12/2014,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.146193
+31/12/2014,Coal,-.038976412
+31/12/2014,Petroleum and Natural Gas,-.12686343
+31/12/2014,Utilities,.061277304
+31/12/2014,Communication,-.0059885588
+31/12/2014,Personal and Business Services,.076352768
+31/12/2014,Business Equipment,.0538528
+31/12/2014,Business Supplies and Shipping Containers,.14045183
+31/12/2014,Transportation,.12617649
+31/12/2014,Wholesale,.04766693
+31/12/2014,Retail,.13561139
+31/12/2014,"Restaurants, Hotels, Motels",.056728289
+31/12/2014,"Banking, Insurance, Real Estate, Trading",.049522892
+31/12/2014,Everything Else,.055490408
+31/03/2015,Food Products,.012073012
+31/03/2015,Beer & Liquor,.057565458
+31/03/2015,Tobacco Products,-.015240053
+31/03/2015,Recreation,.12270731
+31/03/2015,Printing and Publishing,.15360188
+31/03/2015,Consumer Goods,-.010103
+31/03/2015,Apparel,.048748784
+31/03/2015,"Healthcare, Medical Equipment, Pharmaceutical Products",.080533631
+31/03/2015,Chemicals,.0175706
+31/03/2015,Textiles,.16798548
+31/03/2015,Construction and Construction Materials,.059315175
+31/03/2015,Steel Works Etc,-.054280594
+31/03/2015,Fabricated Products and Machinery,-.020649126
+31/03/2015,Electrical Equipment,.0027288191
+31/03/2015,Automobiles and Trucks,.081566416
+31/03/2015,"Aircraft, ships, and railroad equipment",.10002658
+31/03/2015,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.0051186909
+31/03/2015,Coal,-.044567391
+31/03/2015,Petroleum and Natural Gas,-.022119055
+31/03/2015,Utilities,-.029798934
+31/03/2015,Communication,.033144504
+31/03/2015,Personal and Business Services,.02731117
+31/03/2015,Business Equipment,.047025833
+31/03/2015,Business Supplies and Shipping Containers,.0043955063
+31/03/2015,Transportation,-.020618262
+31/03/2015,Wholesale,.01560925
+31/03/2015,Retail,.06352134
+31/03/2015,"Restaurants, Hotels, Motels",.062980995
+31/03/2015,"Banking, Insurance, Real Estate, Trading",.014164337
+31/03/2015,Everything Else,.078433953
+30/06/2015,Food Products,.012192581
+30/06/2015,Beer & Liquor,.027400998
+30/06/2015,Tobacco Products,.074093871
+30/06/2015,Recreation,.13788635
+30/06/2015,Printing and Publishing,-.0470361
+30/06/2015,Consumer Goods,.015162241
+30/06/2015,Apparel,.052972313
+30/06/2015,"Healthcare, Medical Equipment, Pharmaceutical Products",.029047657
+30/06/2015,Chemicals,.0026710609
+30/06/2015,Textiles,.012091309
+30/06/2015,Construction and Construction Materials,-.011206111
+30/06/2015,Steel Works Etc,-.046704356
+30/06/2015,Fabricated Products and Machinery,.037907187
+30/06/2015,Electrical Equipment,-.0011477206
+30/06/2015,Automobiles and Trucks,-.041013762
+30/06/2015,"Aircraft, ships, and railroad equipment",-.024938937
+30/06/2015,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.022113234
+30/06/2015,Coal,-.10886765
+30/06/2015,Petroleum and Natural Gas,-.01313245
+30/06/2015,Utilities,-.05477605
+30/06/2015,Communication,.053407509
+30/06/2015,Personal and Business Services,.042321943
+30/06/2015,Business Equipment,.00059706043
+30/06/2015,Business Supplies and Shipping Containers,-.037067398
+30/06/2015,Transportation,-.057779782
+30/06/2015,Wholesale,-.0059336522
+30/06/2015,Retail,-.036301699
+30/06/2015,"Restaurants, Hotels, Motels",.027670147
+30/06/2015,"Banking, Insurance, Real Estate, Trading",.021453807
+30/06/2015,Everything Else,.069715858
+30/09/2015,Food Products,-.0061084507
+30/09/2015,Beer & Liquor,-.0945362
+30/09/2015,Tobacco Products,.080953665
+30/09/2015,Recreation,-.072362028
+30/09/2015,Printing and Publishing,-.018745789
+30/09/2015,Consumer Goods,-.05826807
+30/09/2015,Apparel,.063705355
+30/09/2015,"Healthcare, Medical Equipment, Pharmaceutical Products",-.088495806
+30/09/2015,Chemicals,-.1686708
+30/09/2015,Textiles,-.10889319
+30/09/2015,Construction and Construction Materials,-.095522664
+30/09/2015,Steel Works Etc,-.091688693
+30/09/2015,Fabricated Products and Machinery,-.1063797
+30/09/2015,Electrical Equipment,-.11281119
+30/09/2015,Automobiles and Trucks,-.10527765
+30/09/2015,"Aircraft, ships, and railroad equipment",-.074653268
+30/09/2015,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.18185179
+30/09/2015,Coal,-.18241899
+30/09/2015,Petroleum and Natural Gas,-.16270421
+30/09/2015,Utilities,-.019071518
+30/09/2015,Communication,-.068400033
+30/09/2015,Personal and Business Services,-.03160575
+30/09/2015,Business Equipment,-.082836889
+30/09/2015,Business Supplies and Shipping Containers,-.079049893
+30/09/2015,Transportation,-.036649473
+30/09/2015,Wholesale,-.038358223
+30/09/2015,Retail,-.038617685
+30/09/2015,"Restaurants, Hotels, Motels",-.029346766
+30/09/2015,"Banking, Insurance, Real Estate, Trading",-.069310479
+30/09/2015,Everything Else,-.095503755
+31/12/2015,Food Products,.07807751
+31/12/2015,Beer & Liquor,.093163118
+31/12/2015,Tobacco Products,.095708273
+31/12/2015,Recreation,.064530611
+31/12/2015,Printing and Publishing,-.012520135
+31/12/2015,Consumer Goods,.081713252
+31/12/2015,Apparel,-.072152339
+31/12/2015,"Healthcare, Medical Equipment, Pharmaceutical Products",.068157025
+31/12/2015,Chemicals,.13257475
+31/12/2015,Textiles,.011868695
+31/12/2015,Construction and Construction Materials,.042295672
+31/12/2015,Steel Works Etc,.036886401
+31/12/2015,Fabricated Products and Machinery,.13676012
+31/12/2015,Electrical Equipment,.038710538
+31/12/2015,Automobiles and Trucks,.065950237
+31/12/2015,"Aircraft, ships, and railroad equipment",.075997807
+31/12/2015,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.088778958
+31/12/2015,Coal,-.16447963
+31/12/2015,Petroleum and Natural Gas,.032500856
+31/12/2015,Utilities,-.021841811
+31/12/2015,Communication,.031378742
+31/12/2015,Personal and Business Services,.17251645
+31/12/2015,Business Equipment,.066106871
+31/12/2015,Business Supplies and Shipping Containers,.086568236
+31/12/2015,Transportation,.022941265
+31/12/2015,Wholesale,.07279633
+31/12/2015,Retail,.027996633
+31/12/2015,"Restaurants, Hotels, Motels",.074255943
+31/12/2015,"Banking, Insurance, Real Estate, Trading",.041578121
+31/12/2015,Everything Else,.073126644
+31/03/2016,Food Products,.050890248
+31/03/2016,Beer & Liquor,.037035707
+31/03/2016,Tobacco Products,.10797167
+31/03/2016,Recreation,-.02086284
+31/03/2016,Printing and Publishing,.057879146
+31/03/2016,Consumer Goods,.047733318
+31/03/2016,Apparel,.039487284
+31/03/2016,"Healthcare, Medical Equipment, Pharmaceutical Products",-.060455382
+31/03/2016,Chemicals,-.0037411165
+31/03/2016,Textiles,-.028244095
+31/03/2016,Construction and Construction Materials,.054947261
+31/03/2016,Steel Works Etc,.23427917
+31/03/2016,Fabricated Products and Machinery,.086915337
+31/03/2016,Electrical Equipment,.092269629
+31/03/2016,Automobiles and Trucks,-.02793433
+31/03/2016,"Aircraft, ships, and railroad equipment",-.06666702
+31/03/2016,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.27171522
+31/03/2016,Coal,-.011693964
+31/03/2016,Petroleum and Natural Gas,.053179
+31/03/2016,Utilities,.12943158
+31/03/2016,Communication,.073910758
+31/03/2016,Personal and Business Services,-.0050454759
+31/03/2016,Business Equipment,.034413509
+31/03/2016,Business Supplies and Shipping Containers,.041388933
+31/03/2016,Transportation,.047383334
+31/03/2016,Wholesale,.058916833
+31/03/2016,Retail,.066279873
+31/03/2016,"Restaurants, Hotels, Motels",.066241547
+31/03/2016,"Banking, Insurance, Real Estate, Trading",-.01843396
+31/03/2016,Everything Else,-.0029956258
+30/06/2016,Food Products,.056736194
+30/06/2016,Beer & Liquor,.081887528
+30/06/2016,Tobacco Products,.059423901
+30/06/2016,Recreation,-.003052169
+30/06/2016,Printing and Publishing,.046086472
+30/06/2016,Consumer Goods,.036418047
+30/06/2016,Apparel,-.056789648
+30/06/2016,"Healthcare, Medical Equipment, Pharmaceutical Products",.078049943
+30/06/2016,Chemicals,.021444341
+30/06/2016,Textiles,-.0046322634
+30/06/2016,Construction and Construction Materials,.024857687
+30/06/2016,Steel Works Etc,.10645205
+30/06/2016,Fabricated Products and Machinery,.022111285
+30/06/2016,Electrical Equipment,-.032351453
+30/06/2016,Automobiles and Trucks,-.044542074
+30/06/2016,"Aircraft, ships, and railroad equipment",.058106653
+30/06/2016,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.23110934
+30/06/2016,Coal,.25665879
+30/06/2016,Petroleum and Natural Gas,.128039
+30/06/2016,Utilities,.14120725
+30/06/2016,Communication,.051394295
+30/06/2016,Personal and Business Services,.018464826
+30/06/2016,Business Equipment,.00051764515
+30/06/2016,Business Supplies and Shipping Containers,.049289167
+30/06/2016,Transportation,-.026884772
+30/06/2016,Wholesale,.081090912
+30/06/2016,Retail,-.00030896187
+30/06/2016,"Restaurants, Hotels, Motels",-.040180244
+30/06/2016,"Banking, Insurance, Real Estate, Trading",.020397356
+30/06/2016,Everything Else,.063627318
+30/09/2016,Food Products,-.0039499532
+30/09/2016,Beer & Liquor,.011915965
+30/09/2016,Tobacco Products,-.057552565
+30/09/2016,Recreation,.024165208
+30/09/2016,Printing and Publishing,.0067791375
+30/09/2016,Consumer Goods,.037068445
+30/09/2016,Apparel,-.024447562
+30/09/2016,"Healthcare, Medical Equipment, Pharmaceutical Products",.015153728
+30/09/2016,Chemicals,.056449432
+30/09/2016,Textiles,.08943928
+30/09/2016,Construction and Construction Materials,.058070224
+30/09/2016,Steel Works Etc,.084873833
+30/09/2016,Fabricated Products and Machinery,.058006834
+30/09/2016,Electrical Equipment,.1087645
+30/09/2016,Automobiles and Trucks,.13001998
+30/09/2016,"Aircraft, ships, and railroad equipment",.058728874
+30/09/2016,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.080906205
+30/09/2016,Coal,.3060585
+30/09/2016,Petroleum and Natural Gas,.01664684
+30/09/2016,Utilities,-.0021514464
+30/09/2016,Communication,.016195502
+30/09/2016,Personal and Business Services,.11828265
+30/09/2016,Business Equipment,.16025163
+30/09/2016,Business Supplies and Shipping Containers,.076904416
+30/09/2016,Transportation,.096599855
+30/09/2016,Wholesale,.0089270202
+30/09/2016,Retail,-.0040360768
+30/09/2016,"Restaurants, Hotels, Motels",.038893726
+30/09/2016,"Banking, Insurance, Real Estate, Trading",.063763238
+30/09/2016,Everything Else,.076507986
+31/12/2016,Food Products,-.017692259
+31/12/2016,Beer & Liquor,-.15415575
+31/12/2016,Tobacco Products,.047346707
+31/12/2016,Recreation,.10010007
+31/12/2016,Printing and Publishing,-.0096179638
+31/12/2016,Consumer Goods,-.050821379
+31/12/2016,Apparel,-.051189542
+31/12/2016,"Healthcare, Medical Equipment, Pharmaceutical Products",-.049679451
+31/12/2016,Chemicals,.090140745
+31/12/2016,Textiles,.1269404
+31/12/2016,Construction and Construction Materials,.031828698
+31/12/2016,Steel Works Etc,.2191156
+31/12/2016,Fabricated Products and Machinery,.089487672
+31/12/2016,Electrical Equipment,.0027757674
+31/12/2016,Automobiles and Trucks,.037417512
+31/12/2016,"Aircraft, ships, and railroad equipment",.14981754
+31/12/2016,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.054321252
+31/12/2016,Coal,.06554585
+31/12/2016,Petroleum and Natural Gas,.085180745
+31/12/2016,Utilities,.0063963644
+31/12/2016,Communication,.0014838615
+31/12/2016,Personal and Business Services,-.0093195383
+31/12/2016,Business Equipment,.025686063
+31/12/2016,Business Supplies and Shipping Containers,.015061177
+31/12/2016,Transportation,.095244072
+31/12/2016,Wholesale,-.0076205567
+31/12/2016,Retail,.018262547
+31/12/2016,"Restaurants, Hotels, Motels",.062943019
+31/12/2016,"Banking, Insurance, Real Estate, Trading",.10735288
+31/12/2016,Everything Else,.02327757
+31/03/2017,Food Products,.06941589
+31/03/2017,Beer & Liquor,.094231248
+31/03/2017,Tobacco Products,.21791601
+31/03/2017,Recreation,.1323842
+31/03/2017,Printing and Publishing,.075459249
+31/03/2017,Consumer Goods,.10167043
+31/03/2017,Apparel,.068854406
+31/03/2017,"Healthcare, Medical Equipment, Pharmaceutical Products",.088652283
+31/03/2017,Chemicals,.088826701
+31/03/2017,Textiles,.017319093
+31/03/2017,Construction and Construction Materials,.11388551
+31/03/2017,Steel Works Etc,.076262385
+31/03/2017,Fabricated Products and Machinery,.054763015
+31/03/2017,Electrical Equipment,.10555247
+31/03/2017,Automobiles and Trucks,.011096324
+31/03/2017,"Aircraft, ships, and railroad equipment",.09028554
+31/03/2017,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.079472475
+31/03/2017,Coal,.13676864
+31/03/2017,Petroleum and Natural Gas,-.026258007
+31/03/2017,Utilities,.062826693
+31/03/2017,Communication,.061007194
+31/03/2017,Personal and Business Services,.13281868
+31/03/2017,Business Equipment,.13953194
+31/03/2017,Business Supplies and Shipping Containers,.049772784
+31/03/2017,Transportation,.044648044
+31/03/2017,Wholesale,.086684756
+31/03/2017,Retail,.023792384
+31/03/2017,"Restaurants, Hotels, Motels",.080662392
+31/03/2017,"Banking, Insurance, Real Estate, Trading",.049834907
+31/03/2017,Everything Else,.12037273
+30/06/2017,Food Products,.038011674
+30/06/2017,Beer & Liquor,.0089096157
+30/06/2017,Tobacco Products,.04583611
+30/06/2017,Recreation,.02232739
+30/06/2017,Printing and Publishing,.083162233
+30/06/2017,Consumer Goods,.017719602
+30/06/2017,Apparel,.063871019
+30/06/2017,"Healthcare, Medical Equipment, Pharmaceutical Products",.081966102
+30/06/2017,Chemicals,.027657658
+30/06/2017,Textiles,.019834671
+30/06/2017,Construction and Construction Materials,.039336823
+30/06/2017,Steel Works Etc,-.025773786
+30/06/2017,Fabricated Products and Machinery,.033724628
+30/06/2017,Electrical Equipment,.058999434
+30/06/2017,Automobiles and Trucks,.003717894
+30/06/2017,"Aircraft, ships, and railroad equipment",.10005438
+30/06/2017,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.016790727
+30/06/2017,Coal,.023206471
+30/06/2017,Petroleum and Natural Gas,-.042714193
+30/06/2017,Utilities,-.0039758622
+30/06/2017,Communication,.0012826795
+30/06/2017,Personal and Business Services,.0931402
+30/06/2017,Business Equipment,.031601537
+30/06/2017,Business Supplies and Shipping Containers,.062406026
+30/06/2017,Transportation,.065281719
+30/06/2017,Wholesale,.024223285
+30/06/2017,Retail,.015346469
+30/06/2017,"Restaurants, Hotels, Motels",.1090019
+30/06/2017,"Banking, Insurance, Real Estate, Trading",.041549139
+30/06/2017,Everything Else,.079613313
+30/09/2017,Food Products,.014382261
+30/09/2017,Beer & Liquor,.12186728
+30/09/2017,Tobacco Products,-.03652459
+30/09/2017,Recreation,.023273295
+30/09/2017,Printing and Publishing,.028957032
+30/09/2017,Consumer Goods,.015962405
+30/09/2017,Apparel,-.014458121
+30/09/2017,"Healthcare, Medical Equipment, Pharmaceutical Products",.055510376
+30/09/2017,Chemicals,.099626102
+30/09/2017,Textiles,.086095497
+30/09/2017,Construction and Construction Materials,.061253577
+30/09/2017,Steel Works Etc,.083235063
+30/09/2017,Fabricated Products and Machinery,.051695548
+30/09/2017,Electrical Equipment,.048681479
+30/09/2017,Automobiles and Trucks,.12253049
+30/09/2017,"Aircraft, ships, and railroad equipment",.20501597
+30/09/2017,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.13312459
+30/09/2017,Coal,.1760387
+30/09/2017,Petroleum and Natural Gas,.099592127
+30/09/2017,Utilities,.035443004
+30/09/2017,Communication,.036093757
+30/09/2017,Personal and Business Services,.0822317
+30/09/2017,Business Equipment,.093700059
+30/09/2017,Business Supplies and Shipping Containers,.00019965949
+30/09/2017,Transportation,.02606849
+30/09/2017,Wholesale,.010003415
+30/09/2017,Retail,.047490429
+30/09/2017,"Restaurants, Hotels, Motels",.012284442
+30/09/2017,"Banking, Insurance, Real Estate, Trading",.048628218
+30/09/2017,Everything Else,.077071577
+31/12/2017,Food Products,.0444047
+31/12/2017,Beer & Liquor,.019349987
+31/12/2017,Tobacco Products,-.027771659
+31/12/2017,Recreation,.098403111
+31/12/2017,Printing and Publishing,.085718513
+31/12/2017,Consumer Goods,.040977422
+31/12/2017,Apparel,.16350551
+31/12/2017,"Healthcare, Medical Equipment, Pharmaceutical Products",.014779314
+31/12/2017,Chemicals,.010870622
+31/12/2017,Textiles,.081509784
+31/12/2017,Construction and Construction Materials,.1168174
+31/12/2017,Steel Works Etc,.13218349
+31/12/2017,Fabricated Products and Machinery,.033632953
+31/12/2017,Electrical Equipment,.069473937
+31/12/2017,Automobiles and Trucks,.070354246
+31/12/2017,"Aircraft, ships, and railroad equipment",.10380955
+31/12/2017,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.12919936
+31/12/2017,Coal,.16086601
+31/12/2017,Petroleum and Natural Gas,.09062846
+31/12/2017,Utilities,.00111086
+31/12/2017,Communication,.021660058
+31/12/2017,Personal and Business Services,.084888153
+31/12/2017,Business Equipment,.088442482
+31/12/2017,Business Supplies and Shipping Containers,.056143776
+31/12/2017,Transportation,.066494957
+31/12/2017,Wholesale,.093935557
+31/12/2017,Retail,.10687628
+31/12/2017,"Restaurants, Hotels, Motels",.10515472
+31/12/2017,"Banking, Insurance, Real Estate, Trading",.065950334
+31/12/2017,Everything Else,.07206104
+31/03/2018,Food Products,-.043162245
+31/03/2018,Beer & Liquor,.0047743153
+31/03/2018,Tobacco Products,-.043526758
+31/03/2018,Recreation,.12750013
+31/03/2018,Printing and Publishing,-.0067252861
+31/03/2018,Consumer Goods,-.072970636
+31/03/2018,Apparel,.050756998
+31/03/2018,"Healthcare, Medical Equipment, Pharmaceutical Products",.013564984
+31/03/2018,Chemicals,-.069213852
+31/03/2018,Textiles,.019409789
+31/03/2018,Construction and Construction Materials,-.030985519
+31/03/2018,Steel Works Etc,-.043668773
+31/03/2018,Fabricated Products and Machinery,-.054416072
+31/03/2018,Electrical Equipment,-.020675464
+31/03/2018,Automobiles and Trucks,-.015084405
+31/03/2018,"Aircraft, ships, and railroad equipment",.067299142
+31/03/2018,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.0045793769
+31/03/2018,Coal,-.076872677
+31/03/2018,Petroleum and Natural Gas,-.013281675
+31/03/2018,Utilities,-.044682279
+31/03/2018,Communication,-.065733209
+31/03/2018,Personal and Business Services,.071664236
+31/03/2018,Business Equipment,.052962355
+31/03/2018,Business Supplies and Shipping Containers,-.041174024
+31/03/2018,Transportation,-.028810276
+31/03/2018,Wholesale,-.031030459
+31/03/2018,Retail,-.04245178
+31/03/2018,"Restaurants, Hotels, Motels",-.010856721
+31/03/2018,"Banking, Insurance, Real Estate, Trading",-.011543691
+31/03/2018,Everything Else,.034608375
+30/06/2018,Food Products,.016384615
+30/06/2018,Beer & Liquor,-.085604116
+30/06/2018,Tobacco Products,-.12013864
+30/06/2018,Recreation,.11865787
+30/06/2018,Printing and Publishing,.057016023
+30/06/2018,Consumer Goods,-.019977327
+30/06/2018,Apparel,.17029051
+30/06/2018,"Healthcare, Medical Equipment, Pharmaceutical Products",.047032878
+30/06/2018,Chemicals,.03974843
+30/06/2018,Textiles,.011109831
+30/06/2018,Construction and Construction Materials,.0049948953
+30/06/2018,Steel Works Etc,-.027186023
+30/06/2018,Fabricated Products and Machinery,-.044812828
+30/06/2018,Electrical Equipment,.050096259
+30/06/2018,Automobiles and Trucks,-.013411622
+30/06/2018,"Aircraft, ships, and railroad equipment",.013119734
+30/06/2018,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.049687024
+30/06/2018,Coal,.12778281
+30/06/2018,Petroleum and Natural Gas,.12633829
+30/06/2018,Utilities,.047353644
+30/06/2018,Communication,-.0095624886
+30/06/2018,Personal and Business Services,.093798801
+30/06/2018,Business Equipment,.029612076
+30/06/2018,Business Supplies and Shipping Containers,-.012383097
+30/06/2018,Transportation,.032710139
+30/06/2018,Wholesale,.001150641
+30/06/2018,Retail,.06401103
+30/06/2018,"Restaurants, Hotels, Motels",.0044336859
+30/06/2018,"Banking, Insurance, Real Estate, Trading",.0044801165
+30/06/2018,Everything Else,.092752025
+30/09/2018,Food Products,.033032484
+30/09/2018,Beer & Liquor,-.048334222
+30/09/2018,Tobacco Products,.024850657
+30/09/2018,Recreation,.068650566
+30/09/2018,Printing and Publishing,-.0097596031
+30/09/2018,Consumer Goods,.060534842
+30/09/2018,Apparel,.069238633
+30/09/2018,"Healthcare, Medical Equipment, Pharmaceutical Products",.13578704
+30/09/2018,Chemicals,.03403426
+30/09/2018,Textiles,.052950796
+30/09/2018,Construction and Construction Materials,-.005761568
+30/09/2018,Steel Works Etc,.061888043
+30/09/2018,Fabricated Products and Machinery,.04103009
+30/09/2018,Electrical Equipment,.084790528
+30/09/2018,Automobiles and Trucks,-.017106775
+30/09/2018,"Aircraft, ships, and railroad equipment",.10714377
+30/09/2018,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.030503463
+30/09/2018,Coal,-.040490661
+30/09/2018,Petroleum and Natural Gas,.037473887
+30/09/2018,Utilities,.017570738
+30/09/2018,Communication,.060284361
+30/09/2018,Personal and Business Services,.078141153
+30/09/2018,Business Equipment,.13018417
+30/09/2018,Business Supplies and Shipping Containers,.055579957
+30/09/2018,Transportation,.08696685
+30/09/2018,Wholesale,.0889282
+30/09/2018,Retail,.10276947
+30/09/2018,"Restaurants, Hotels, Motels",.049682423
+30/09/2018,"Banking, Insurance, Real Estate, Trading",.040243946
+30/09/2018,Everything Else,.073673852
+31/12/2018,Food Products,-.032412164
+31/12/2018,Beer & Liquor,-.12487752
+31/12/2018,Tobacco Products,-.16048014
+31/12/2018,Recreation,-.16307518
+31/12/2018,Printing and Publishing,-.059452593
+31/12/2018,Consumer Goods,.0024827595
+31/12/2018,Apparel,-.15244171
+31/12/2018,"Healthcare, Medical Equipment, Pharmaceutical Products",-.074342534
+31/12/2018,Chemicals,-.15089175
+31/12/2018,Textiles,-.18576282
+31/12/2018,Construction and Construction Materials,-.17523596
+31/12/2018,Steel Works Etc,-.21888588
+31/12/2018,Fabricated Products and Machinery,-.18358979
+31/12/2018,Electrical Equipment,-.14561269
+31/12/2018,Automobiles and Trucks,-.13583489
+31/12/2018,"Aircraft, ships, and railroad equipment",-.16844612
+31/12/2018,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.034954023
+31/12/2018,Coal,-.0936094
+31/12/2018,Petroleum and Natural Gas,-.20820381
+31/12/2018,Utilities,-.0031523462
+31/12/2018,Communication,-.053621415
+31/12/2018,Personal and Business Services,-.15721536
+31/12/2018,Business Equipment,-.19044967
+31/12/2018,Business Supplies and Shipping Containers,-.10302624
+31/12/2018,Transportation,-.16242218
+31/12/2018,Wholesale,-.11279479
+31/12/2018,Retail,-.13528201
+31/12/2018,"Restaurants, Hotels, Motels",-.026392603
+31/12/2018,"Banking, Insurance, Real Estate, Trading",-.10322748
+31/12/2018,Everything Else,-.12573025
+31/03/2019,Food Products,.11646489
+31/03/2019,Beer & Liquor,.18965256
+31/03/2019,Tobacco Products,.31023154
+31/03/2019,Recreation,.11648867
+31/03/2019,Printing and Publishing,.11640307
+31/03/2019,Consumer Goods,.15624554
+31/03/2019,Apparel,.17355397
+31/03/2019,"Healthcare, Medical Equipment, Pharmaceutical Products",.098358169
+31/03/2019,Chemicals,.15944481
+31/03/2019,Textiles,.14230303
+31/03/2019,Construction and Construction Materials,.15008344
+31/03/2019,Steel Works Etc,.14683987
+31/03/2019,Fabricated Products and Machinery,.17961591
+31/03/2019,Electrical Equipment,.13916379
+31/03/2019,Automobiles and Trucks,.11118457
+31/03/2019,"Aircraft, ships, and railroad equipment",.18937565
+31/03/2019,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.16976644
+31/03/2019,Coal,.13703713
+31/03/2019,Petroleum and Natural Gas,.15310928
+31/03/2019,Utilities,.1437732
+31/03/2019,Communication,.11072342
+31/03/2019,Personal and Business Services,.21143462
+31/03/2019,Business Equipment,.20314991
+31/03/2019,Business Supplies and Shipping Containers,.15592529
+31/03/2019,Transportation,.1581856
+31/03/2019,Wholesale,.13765718
+31/03/2019,Retail,.11597145
+31/03/2019,"Restaurants, Hotels, Motels",.15548308
+31/03/2019,"Banking, Insurance, Real Estate, Trading",.10905086
+31/03/2019,Everything Else,.22708018
+30/06/2019,Food Products,.062296398
+30/06/2019,Beer & Liquor,.068008572
+30/06/2019,Tobacco Products,-.072672591
+30/06/2019,Recreation,.16170458
+30/06/2019,Printing and Publishing,.11057925
+30/06/2019,Consumer Goods,.057843525
+30/06/2019,Apparel,.025985684
+30/06/2019,"Healthcare, Medical Equipment, Pharmaceutical Products",.0081327949
+30/06/2019,Chemicals,.058914606
+30/06/2019,Textiles,.12704404
+30/06/2019,Construction and Construction Materials,.075353652
+30/06/2019,Steel Works Etc,.0033957765
+30/06/2019,Fabricated Products and Machinery,.053091902
+30/06/2019,Electrical Equipment,.065928698
+30/06/2019,Automobiles and Trucks,.05707936
+30/06/2019,"Aircraft, ships, and railroad equipment",.0084513053
+30/06/2019,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.073667973
+30/06/2019,Coal,-.0069677988
+30/06/2019,Petroleum and Natural Gas,-.025388144
+30/06/2019,Utilities,.032390542
+30/06/2019,Communication,.032447111
+30/06/2019,Personal and Business Services,.058545001
+30/06/2019,Business Equipment,.041897956
+30/06/2019,Business Supplies and Shipping Containers,.038650244
+30/06/2019,Transportation,.039488386
+30/06/2019,Wholesale,.010944571
+30/06/2019,Retail,.057262182
+30/06/2019,"Restaurants, Hotels, Motels",.08494214
+30/06/2019,"Banking, Insurance, Real Estate, Trading",.048562355
+30/06/2019,Everything Else,.046086185
+30/09/2019,Food Products,.040582355
+30/09/2019,Beer & Liquor,.023787599
+30/09/2019,Tobacco Products,-.017830564
+30/09/2019,Recreation,-.063324675
+30/09/2019,Printing and Publishing,-.021028703
+30/09/2019,Consumer Goods,.0718299
+30/09/2019,Apparel,.065750606
+30/09/2019,"Healthcare, Medical Equipment, Pharmaceutical Products",.0050905417
+30/09/2019,Chemicals,-.011380522
+30/09/2019,Textiles,.072603174
+30/09/2019,Construction and Construction Materials,.078615554
+30/09/2019,Steel Works Etc,-.090252407
+30/09/2019,Fabricated Products and Machinery,-.025018357
+30/09/2019,Electrical Equipment,-.0069419383
+30/09/2019,Automobiles and Trucks,.010326408
+30/09/2019,"Aircraft, ships, and railroad equipment",.040439203
+30/09/2019,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.062610626
+30/09/2019,Coal,-.092988588
+30/09/2019,Petroleum and Natural Gas,-.060633529
+30/09/2019,Utilities,.061489329
+30/09/2019,Communication,.039986227
+30/09/2019,Personal and Business Services,.0039563123
+30/09/2019,Business Equipment,.068351962
+30/09/2019,Business Supplies and Shipping Containers,.019132143
+30/09/2019,Transportation,-.018365679
+30/09/2019,Wholesale,-.0001159465
+30/09/2019,Retail,.076545067
+30/09/2019,"Restaurants, Hotels, Motels",.01371707
+30/09/2019,"Banking, Insurance, Real Estate, Trading",.010079471
+30/09/2019,Everything Else,-.02644358
+31/12/2019,Food Products,.02118711
+31/12/2019,Beer & Liquor,-.028811298
+31/12/2019,Tobacco Products,.12406719
+31/12/2019,Recreation,.14099477
+31/12/2019,Printing and Publishing,.07581903
+31/12/2019,Consumer Goods,.013714319
+31/12/2019,Apparel,.089636847
+31/12/2019,"Healthcare, Medical Equipment, Pharmaceutical Products",.1332569
+31/12/2019,Chemicals,.059905089
+31/12/2019,Textiles,-.013502352
+31/12/2019,Construction and Construction Materials,.084172994
+31/12/2019,Steel Works Etc,.11581933
+31/12/2019,Fabricated Products and Machinery,.14123651
+31/12/2019,Electrical Equipment,.13689259
+31/12/2019,Automobiles and Trucks,.068320647
+31/12/2019,"Aircraft, ships, and railroad equipment",-.018091094
+31/12/2019,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.15992405
+31/12/2019,Coal,-.064826861
+31/12/2019,Petroleum and Natural Gas,.060229782
+31/12/2019,Utilities,.022902768
+31/12/2019,Communication,.039947208
+31/12/2019,Personal and Business Services,.11198899
+31/12/2019,Business Equipment,.18606004
+31/12/2019,Business Supplies and Shipping Containers,.065477461
+31/12/2019,Transportation,.076507583
+31/12/2019,Wholesale,.098871432
+31/12/2019,Retail,.057818908
+31/12/2019,"Restaurants, Hotels, Motels",.041830897
+31/12/2019,"Banking, Insurance, Real Estate, Trading",.089049742
+31/12/2019,Everything Else,.20953541
+31/03/2020,Food Products,-.14711374
+31/03/2020,Beer & Liquor,-.3221004
+31/03/2020,Tobacco Products,-.14934136
+31/03/2020,Recreation,-.18436266
+31/03/2020,Printing and Publishing,-.092653111
+31/03/2020,Consumer Goods,-.13706602
+31/03/2020,Apparel,-.28086853
+31/03/2020,"Healthcare, Medical Equipment, Pharmaceutical Products",-.11365046
+31/03/2020,Chemicals,-.29596323
+31/03/2020,Textiles,-.4507511
+31/03/2020,Construction and Construction Materials,-.33283707
+31/03/2020,Steel Works Etc,-.41418332
+31/03/2020,Fabricated Products and Machinery,-.27514547
+31/03/2020,Electrical Equipment,-.22005361
+31/03/2020,Automobiles and Trucks,-.27546424
+31/03/2020,"Aircraft, ships, and railroad equipment",-.41638178
+31/03/2020,"Precious Metals, Non-Metallic, and Industrial Metal Mining",-.2801761
+31/03/2020,Coal,-.34162119
+31/03/2020,Petroleum and Natural Gas,-.46038604
+31/03/2020,Utilities,-.17856286
+31/03/2020,Communication,-.15086688
+31/03/2020,Personal and Business Services,-.084384181
+31/03/2020,Business Equipment,-.15806873
+31/03/2020,Business Supplies and Shipping Containers,-.19516477
+31/03/2020,Transportation,-.23930243
+31/03/2020,Wholesale,-.21521682
+31/03/2020,Retail,-.16843866
+31/03/2020,"Restaurants, Hotels, Motels",-.29624698
+31/03/2020,"Banking, Insurance, Real Estate, Trading",-.23274225
+31/03/2020,Everything Else,-.060560226
+30/06/2020,Food Products,.09838026
+30/06/2020,Beer & Liquor,.11864938
+30/06/2020,Tobacco Products,-.020068314
+30/06/2020,Recreation,.21562044
+30/06/2020,Printing and Publishing,.14983949
+30/06/2020,Consumer Goods,.16192406
+30/06/2020,Apparel,.30767456
+30/06/2020,"Healthcare, Medical Equipment, Pharmaceutical Products",.17796658
+30/06/2020,Chemicals,.28025544
+30/06/2020,Textiles,.1513425
+30/06/2020,Construction and Construction Materials,.38842958
+30/06/2020,Steel Works Etc,.22833583
+30/06/2020,Fabricated Products and Machinery,.22703724
+30/06/2020,Electrical Equipment,.33917001
+30/06/2020,Automobiles and Trucks,.19686754
+30/06/2020,"Aircraft, ships, and railroad equipment",.30776259
+30/06/2020,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.4339956
+30/06/2020,Coal,.14453535
+30/06/2020,Petroleum and Natural Gas,.281111
+30/06/2020,Utilities,.086765356
+30/06/2020,Communication,.16526388
+30/06/2020,Personal and Business Services,.33834934
+30/06/2020,Business Equipment,.29861826
+30/06/2020,Business Supplies and Shipping Containers,.13751538
+30/06/2020,Transportation,.18995881
+30/06/2020,Wholesale,.23005532
+30/06/2020,Retail,.27572
+30/06/2020,"Restaurants, Hotels, Motels",.19997999
+30/06/2020,"Banking, Insurance, Real Estate, Trading",.16846527
+30/06/2020,Everything Else,.64496928
+30/09/2020,Food Products,.092632167
+30/09/2020,Beer & Liquor,.10719261
+30/09/2020,Tobacco Products,.031488877
+30/09/2020,Recreation,.12572093
+30/09/2020,Printing and Publishing,.0044642044
+30/09/2020,Consumer Goods,.12657911
+30/09/2020,Apparel,.25459972
+30/09/2020,"Healthcare, Medical Equipment, Pharmaceutical Products",.049290076
+30/09/2020,Chemicals,.14314546
+30/09/2020,Textiles,-.033344619
+30/09/2020,Construction and Construction Materials,.18214376
+30/09/2020,Steel Works Etc,.14267796
+30/09/2020,Fabricated Products and Machinery,.11006775
+30/09/2020,Electrical Equipment,.15021981
+30/09/2020,Automobiles and Trucks,.092983112
+30/09/2020,"Aircraft, ships, and railroad equipment",-.046848852
+30/09/2020,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.12215994
+30/09/2020,Coal,.0048528654
+30/09/2020,Petroleum and Natural Gas,-.17005618
+30/09/2020,Utilities,.045852322
+30/09/2020,Communication,.056415938
+30/09/2020,Personal and Business Services,.11969427
+30/09/2020,Business Equipment,.19578734
+30/09/2020,Business Supplies and Shipping Containers,.11899339
+30/09/2020,Transportation,.19616961
+30/09/2020,Wholesale,.11094401
+30/09/2020,Retail,.14271161
+30/09/2020,"Restaurants, Hotels, Motels",.1536742
+30/09/2020,"Banking, Insurance, Real Estate, Trading",.045633361
+30/09/2020,Everything Else,.32117024
+31/12/2020,Food Products,.076460347
+31/12/2020,Beer & Liquor,.20296144
+31/12/2020,Tobacco Products,.14429468
+31/12/2020,Recreation,.30024219
+31/12/2020,Printing and Publishing,.20713988
+31/12/2020,Consumer Goods,.071046613
+31/12/2020,Apparel,.25935146
+31/12/2020,"Healthcare, Medical Equipment, Pharmaceutical Products",.098042957
+31/12/2020,Chemicals,.20138936
+31/12/2020,Textiles,.42895642
+31/12/2020,Construction and Construction Materials,.13559046
+31/12/2020,Steel Works Etc,.48671862
+31/12/2020,Fabricated Products and Machinery,.32106835
+31/12/2020,Electrical Equipment,.30271223
+31/12/2020,Automobiles and Trucks,.26330772
+31/12/2020,"Aircraft, ships, and railroad equipment",.27489033
+31/12/2020,"Precious Metals, Non-Metallic, and Industrial Metal Mining",.25216156
+31/12/2020,Coal,.45217991
+31/12/2020,Petroleum and Natural Gas,.31540293
+31/12/2020,Utilities,.11129439
+31/12/2020,Communication,.11269366
+31/12/2020,Personal and Business Services,.10970355
+31/12/2020,Business Equipment,.22782773
+31/12/2020,Business Supplies and Shipping Containers,.1498386
+31/12/2020,Transportation,.16349153
+31/12/2020,Wholesale,.11652744
+31/12/2020,Retail,.095356412
+31/12/2020,"Restaurants, Hotels, Motels",.18326192
+31/12/2020,"Banking, Insurance, Real Estate, Trading",.19261625
+31/12/2020,Everything Else,.37443092
