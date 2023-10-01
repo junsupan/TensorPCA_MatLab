@@ -5,7 +5,7 @@ Reference:
 Babii, Andrii, Eric Ghysels, and Junsu Pan. **"Tensor Principal Component Analysis."** *arXiv preprint arXiv:2212.12981* (2022). 
 https://arxiv.org/abs/2212.12981
 
-**Test:**
+**Hyposthesis Test:**
 ```
 nfactortest_2dim.m
 nfactortest_3dim.m
